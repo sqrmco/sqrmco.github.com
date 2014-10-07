@@ -77,3 +77,30 @@ h1, h2, h3, h4 {
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+..container-fluid {
+    height: 100%;
+    display: table;
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.row-fluid {
+    height: 100%;
+    display: table-cell;
+    vertical-align: middle;
+    width: 100%;
+}
+
+.centering {
+    float: none;
+    margin: 0 auto;
+    padding: 100px 0px;
+}
+
+.pull-bottom {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}

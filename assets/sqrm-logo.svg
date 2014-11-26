@@ -1,0 +1,3372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg version="1.2" baseProfile="tiny" width="180.59mm" height="180.59mm" viewBox="0 0 18059 18059" preserveAspectRatio="xMidYMid" fill-rule="evenodd" clip-path="url(#presentation_clip_path)" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+ <defs class="ClipPathGroup">
+  <clipPath id="presentation_clip_path" clipPathUnits="userSpaceOnUse">
+   <rect x="0" y="0" width="18059" height="18059"/>
+  </clipPath>
+ </defs>
+ <defs class="TextShapeIndex">
+  <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13 id14 id15 id16 id17 id18 id19 id20 id21 id22 id23 id24 id25 id26 id27 id28 id29 id30 id31 id32 id33 id34 id35 id36 id37 id38 id39 id40 id41 id42 id43 id44 id45 id46 id47 id48 id49 id50 id51 id52 id53 id54 id55 id56 id57 id58 id59 id60 id61 id62 id63 id64 id65 id66 id67 id68 id69 id70 id71 id72 id73 id74 id75 id76 id77 id78 id79 id80 id81 id82 id83 id84 id85 id86 id87 id88 id89 id90 id91 id92 id93 id94 id95 id96 id97 id98 id99 id100 id101 id102 id103 id104 id105 id106 id107 id108 id109 id110 id111 id112 id113 id114 id115 id116 id117 id118 id119 id120 id121 id122 id123 id124 id125 id126 id127 id128 id129 id130 id131 id132 id133 id134 id135 id136 id137 id138 id139 id140 id141 id142 id143 id144 id145 id146 id147 id148 id149 id150 id151 id152 id153 id154 id155 id156 id157 id158 id159 id160 id161 id162 id163 id164 id165 id166 id167 id168 id169 id170 id171 id172 id173 id174 id175 id176 id177 id178 id179 id180 id181 id182 id183 id184 id185 id186 id187 id188 id189 id190 id191 id192 id193 id194 id195 id196 id197 id198 id199 id200 id201 id202 id203 id204 id205 id206 id207 id208 id209 id210 id211 id212 id213 id214 id215 id216 id217 id218 id219 id220 id221 id222 id223 id224 id225 id226 id227 id228 id229 id230 id231 id232 id233 id234 id235 id236 id237 id238 id239 id240 id241 id242 id243 id244 id245 id246 id247 id248 id249 id250 id251 id252 id253 id254 id255 id256 id257 id258 id259 id260 id261 id262 id263 id264 id265 id266 id267 id268 id269 id270 id271 id272 id273 id274 id275 id276 id277 id278 id279 id280 id281 id282 id283 id284 id285 id286 id287 id288 id289 id290 id291 id292 id293 id294 id295 id296 id297 id298 id299 id300 id301 id302 id303 id304 id305 id306 id307 id308 id309 id310 id311 id312 id313 id314 id315 id316 id317 id318 id319 id320 id321 id322 id323 id324 id325 id326 id327 id328 id329 id330 id331 id332 id333 id334 id335 id336 id337 id338 id339 id340 id341 id342 id343 id344 id345 id346 id347 id348 id349 id350 id351 id352 id353 id354 id355 id356 id357 id358 id359 id360 id361 id362 id363 id364 id365 id366 id367 id368 id369 id370 id371 id372 id373 id374 id375 id376 id377 id378 id379 id380 id381 id382 id383 id384 id385 id386 id387 id388 id389 id390 id391 id392 id393 id394 id395 id396 id397 id398 id399 id400 id401 id402 id403 id404 id405 id406 id407 id408 id409 id410 id411 id412 id413 id414 id415 id416 id417 id418 id419 id420 id421 id422 id423 id424 id425 id426 id427 id428 id429 id430 id431 id432 id433 id434 id435 id436 id437 id438 id439 id440 id441 id442 id443 id444 id445 id446 id447 id448 id449 id450 id451 id452 id453 id454 id455 id456 id457 id458 id459 id460 id461 id462 id463 id464 id465 id466 id467 id468 id469 id470 id471 id472 id473 id474 id475 id476 id477 id478 id479 id480 id481 id482 id483 id484 id485 id486 id487 id488 id489 id490 id491 id492 id493 id494 id495 id496 id497 id498 id499 id500 id501 id502 id503 id504 id505 id506 id507 id508 id509 id510 id511 id512 id513 id514 id515 id516 id517 id518 id519 id520 id521 id522 id523 id524 id525 id526 id527 id528 id529 id530 id531 id532 id533 id534 id535 id536 id537 id538 id539 id540 id541 id542 id543 id544 id545 id546 id547 id548 id549 id550 id551 id552 id553 id554 id555 id556 id557 id558 id559 id560 id561 id562 id563 id564 id565 id566 id567 id568 id569 id570 id571 id572 id573 id574 id575 id576 id577 id578 id579 id580 id581 id582 id583 id584 id585 id586 id587 id588 id589 id590 id591 id592 id593 id594 id595 id596 id597 id598 id599 id600 id601 id602 id603 id604 id605 id606 id607 id608 id609 id610 id611 id612 id613 id614 id615 id616 id617 id618 id619 id620 id621 id622 id623 id624 id625 id626 id627 id628 id629 id630 id631 id632 id633 id634 id635 id636 id637 id638 id639 id640 id641 id642 id643 id644 id645 id646 id647 id648 id649 id650 id651 id652 id653 id654 id655 id656 id657 id658 id659 id660 id661 id662 id663 id664 id665 id666"/>
+ </defs>
+ <defs class="EmbeddedBulletChars">
+  <g id="bullet-char-template(57356)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 580,1141 L 1163,571 580,0 -4,571 580,1141 Z"/>
+  </g>
+  <g id="bullet-char-template(57354)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 8,1128 L 1137,1128 1137,0 8,0 8,1128 Z"/>
+  </g>
+  <g id="bullet-char-template(10146)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 174,0 L 602,739 174,1481 1456,739 174,0 Z M 1358,739 L 309,1346 659,739 1358,739 Z"/>
+  </g>
+  <g id="bullet-char-template(10132)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 2015,739 L 1276,0 717,0 1260,543 174,543 174,936 1260,936 717,1481 1274,1481 2015,739 Z"/>
+  </g>
+  <g id="bullet-char-template(10007)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 0,-2 C -7,14 -16,27 -25,37 L 356,567 C 262,823 215,952 215,954 215,979 228,992 255,992 264,992 276,990 289,987 310,991 331,999 354,1012 L 381,999 492,748 772,1049 836,1024 860,1049 C 881,1039 901,1025 922,1006 886,937 835,863 770,784 769,783 710,716 594,584 L 774,223 C 774,196 753,168 711,139 L 727,119 C 717,90 699,76 672,76 641,76 570,178 457,381 L 164,-76 C 142,-110 111,-127 72,-127 30,-127 9,-110 8,-76 1,-67 -2,-52 -2,-32 -2,-23 -1,-13 0,-2 Z"/>
+  </g>
+  <g id="bullet-char-template(10004)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 285,-33 C 182,-33 111,30 74,156 52,228 41,333 41,471 41,549 55,616 82,672 116,743 169,778 240,778 293,778 328,747 346,684 L 369,508 C 377,444 397,411 428,410 L 1163,1116 C 1174,1127 1196,1133 1229,1133 1271,1133 1292,1118 1292,1087 L 1292,965 C 1292,929 1282,901 1262,881 L 442,47 C 390,-6 338,-33 285,-33 Z"/>
+  </g>
+  <g id="bullet-char-template(9679)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 813,0 C 632,0 489,54 383,161 276,268 223,411 223,592 223,773 276,916 383,1023 489,1130 632,1184 813,1184 992,1184 1136,1130 1245,1023 1353,916 1407,772 1407,592 1407,412 1353,268 1245,161 1136,54 992,0 813,0 Z"/>
+  </g>
+  <g id="bullet-char-template(8226)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 346,457 C 273,457 209,483 155,535 101,586 74,649 74,723 74,796 101,859 155,911 209,963 273,989 346,989 419,989 480,963 531,910 582,859 608,796 608,723 608,648 583,586 532,535 482,483 420,457 346,457 Z"/>
+  </g>
+  <g id="bullet-char-template(8211)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M -4,459 L 1135,459 1135,606 -4,606 -4,459 Z"/>
+  </g>
+ </defs>
+ <defs class="TextEmbeddedBitmaps"/>
+ <g>
+  <g id="id2" class="Master_Slide">
+   <g id="bg-id2" class="Background"/>
+   <g id="bo-id2" class="BackgroundObjects"/>
+  </g>
+ </g>
+ <g class="SlideGroup">
+  <g>
+   <g id="id1" class="Slide" clip-path="url(#presentation_clip_path)">
+    <g class="Page">
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id3">
+       <path fill="rgb(135,135,135)" stroke="none" d="M 5257,9931 L 5221,9498 5257,10049 5257,9931 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id4">
+       <path fill="rgb(141,141,141)" stroke="none" d="M 5221,9498 L 5257,9931 5363,9655 5221,9498 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id5">
+       <path fill="rgb(149,149,149)" stroke="none" d="M 5256,9930 L 5256,10049 5398,9970 5256,9930 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id6">
+       <path fill="rgb(175,175,175)" stroke="none" d="M 5363,9655 L 5256,9931 5398,9970 5363,9655 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id7">
+       <path fill="rgb(185,185,185)" stroke="none" d="M 5362,9655 L 5398,9970 5504,9773 5362,9655 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id8">
+       <path fill="rgb(206,206,206)" stroke="none" d="M 5433,7582 L 5575,7625 5575,7497 5433,7582 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id9">
+       <path fill="rgb(183,183,183)" stroke="none" d="M 5433,7580 L 5433,8044 5575,7622 5433,7580 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id10">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 5681,12009 L 5433,13227 5716,12284 5681,12009 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id11">
+       <path fill="rgb(189,189,189)" stroke="none" d="M 5362,9655 L 5504,9774 5680,9695 5362,9655 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id12">
+       <path fill="rgb(33,33,33)" stroke="none" d="M 5433,13226 L 5645,13029 5716,12283 5433,13226 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id13">
+       <path fill="rgb(214,214,214)" stroke="none" d="M 5680,11067 L 5680,12010 5787,11578 5680,11067 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id14">
+       <path fill="rgb(131,131,131)" stroke="none" d="M 5680,12010 L 5787,11813 5787,11577 5680,12010 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id15">
+       <path fill="rgb(165,165,165)" stroke="none" d="M 5645,13029 L 5433,13226 5787,13305 5645,13029 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id16">
+       <path fill="rgb(94,94,94)" stroke="none" d="M 5644,13029 L 5786,13305 5821,13187 5644,13029 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id17">
+       <path fill="rgb(116,116,116)" stroke="none" d="M 5680,11067 L 5787,11579 5822,11421 5680,11067 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id18">
+       <path fill="rgb(56,56,56)" stroke="none" d="M 5822,11420 L 5786,11578 5858,11499 5822,11420 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id19">
+       <path fill="rgb(66,66,66)" stroke="none" d="M 5715,12283 L 5644,13029 5857,12558 5715,12283 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id20">
+       <path fill="rgb(178,178,178)" stroke="none" d="M 5504,9773 L 5398,9970 5858,9970 5504,9773 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id21">
+       <path fill="rgb(190,190,190)" stroke="none" d="M 5680,9694 L 5503,9773 5857,9970 5680,9694 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id22">
+       <path fill="rgb(68,68,68)" stroke="none" d="M 5644,13028 L 5821,13186 5857,12989 5644,13028 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id23">
+       <path fill="rgb(109,109,109)" stroke="none" d="M 5433,7581 L 5574,7497 5822,7117 5433,7581 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id24">
+       <path fill="rgb(210,210,210)" stroke="none" d="M 5574,7497 L 5751,7287 5822,7117 5574,7497 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id25">
+       <path fill="rgb(97,97,97)" stroke="none" d="M 5786,11813 L 5680,12010 5893,12010 5786,11813 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id26">
+       <path fill="rgb(179,179,179)" stroke="none" d="M 5398,9968 L 5716,10401 5858,9968 5398,9968 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id27">
+       <path fill="rgb(178,178,178)" stroke="none" d="M 5574,7497 L 5574,7625 5928,7625 5574,7497 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id28">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 5751,7285 L 5574,7496 5928,7623 5751,7285 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id29">
+       <path fill="rgb(227,227,227)" stroke="none" d="M 5680,5306 L 5822,5897 5928,5644 5680,5306 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id30">
+       <path fill="rgb(184,184,184)" stroke="none" d="M 5857,5306 L 5680,5306 5928,5644 5857,5306 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id31">
+       <path fill="rgb(103,103,103)" stroke="none" d="M 5680,12009 L 5715,12285 5893,12009 5680,12009 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id32">
+       <path fill="rgb(77,77,77)" stroke="none" d="M 5821,11420 L 5857,11500 5893,11500 5821,11420 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id33">
+       <path fill="rgb(93,93,93)" stroke="none" d="M 5787,13304 L 5433,13225 5857,13383 5787,13304 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id34">
+       <path fill="rgb(43,43,43)" stroke="none" d="M 5644,13030 L 5857,12991 5857,12558 5644,13030 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id35">
+       <path fill="rgb(192,192,192)" stroke="none" d="M 5821,7117 L 5750,7287 5857,7117 5821,7117 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id36">
+       <path fill="rgb(188,188,188)" stroke="none" d="M 5221,9498 L 5362,9656 5681,9695 5221,9498 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id37">
+       <path fill="rgb(246,246,246)" stroke="none" d="M 5680,5309 L 5928,4845 5963,4465 5680,5309 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id38">
+       <path fill="rgb(55,55,55)" stroke="none" d="M 5857,11499 L 5786,11579 5893,11499 5857,11499 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id39">
+       <path fill="rgb(64,64,64)" stroke="none" d="M 5822,13186 L 5786,13304 5858,13383 5822,13186 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id40">
+       <path fill="rgb(109,109,109)" stroke="none" d="M 5857,9968 L 5715,10401 5998,10047 5857,9968 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id41">
+       <path fill="rgb(219,219,219)" stroke="none" d="M 5433,8043 L 5716,8423 5998,8254 5433,8043 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id42">
+       <path fill="rgb(60,60,60)" stroke="none" d="M 5786,11813 L 5892,12010 5999,11852 5786,11813 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id43">
+       <path fill="rgb(63,63,63)" stroke="none" d="M 5856,12558 L 5856,12991 5998,12912 5856,12558 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id44">
+       <path fill="rgb(175,175,175)" stroke="none" d="M 5856,7117 L 5750,7287 5998,7371 5856,7117 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id45">
+       <path fill="rgb(183,183,183)" stroke="none" d="M 5750,7285 L 5927,7623 5998,7370 5750,7285 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id46">
+       <path fill="rgb(244,244,244)" stroke="none" d="M 5680,5307 L 5857,5307 5928,4843 5680,5307 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id47">
+       <path fill="rgb(123,123,123)" stroke="none" d="M 5680,9695 L 5857,9970 5928,9616 5680,9695 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id48">
+       <path fill="rgb(75,75,75)" stroke="none" d="M 5998,10047 L 5715,10401 6069,10165 5998,10047 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id49">
+       <path fill="rgb(43,43,43)" stroke="none" d="M 5997,11851 L 5891,12009 6068,12009 5997,11851 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id50">
+       <path fill="rgb(240,240,240)" stroke="none" d="M 5928,7623 L 5433,8044 5998,8256 5928,7623 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id51">
+       <path fill="rgb(43,43,43)" stroke="none" d="M 5786,11577 L 5786,11814 5999,11853 5786,11577 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id52">
+       <path fill="rgb(75,75,75)" stroke="none" d="M 5892,11499 L 5786,11578 5999,11853 5892,11499 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id53">
+       <path fill="rgb(124,124,124)" stroke="none" d="M 5574,7623 L 5433,8046 5928,7623 5574,7623 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id54">
+       <path fill="rgb(45,45,45)" stroke="none" d="M 5715,12283 L 5856,12559 6104,12362 5715,12283 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id55">
+       <path fill="rgb(63,63,63)" stroke="none" d="M 5892,12009 L 5715,12285 6104,12363 5892,12009 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id56">
+       <path fill="rgb(142,142,142)" stroke="none" d="M 5927,7623 L 5998,8256 6104,8044 5927,7623 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id57">
+       <path fill="rgb(126,126,126)" stroke="none" d="M 5927,7623 L 6104,8046 6140,7961 5927,7623 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id58">
+       <path fill="rgb(250,250,250)" stroke="none" d="M 5927,4843 L 5856,5307 6139,5139 5927,4843 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id59">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 5962,4465 L 5927,4845 6140,4635 5962,4465 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id60">
+       <path fill="rgb(27,27,27)" stroke="none" d="M 6068,12009 L 5891,12009 6104,12363 6068,12009 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id61">
+       <path fill="rgb(177,177,177)" stroke="none" d="M 6175,5433 L 5927,5644 6175,5603 6175,5433 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id62">
+       <path fill="rgb(246,246,246)" stroke="none" d="M 5856,5306 L 5927,5644 6174,5433 5856,5306 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id63">
+       <path fill="rgb(65,65,65)" stroke="none" d="M 5856,12990 L 5821,13187 5998,12911 5856,12990 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id64">
+       <path fill="rgb(230,230,230)" stroke="none" d="M 6139,5138 L 5856,5308 6174,5434 6139,5138 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id65">
+       <path fill="rgb(73,73,73)" stroke="none" d="M 5927,9616 L 5856,9970 5998,10049 5927,9616 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id66">
+       <path fill="rgb(207,207,207)" stroke="none" d="M 5221,9498 L 5680,9695 5928,9616 5221,9498 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id67">
+       <path fill="rgb(161,161,161)" stroke="none" d="M 6068,12009 L 6103,12363 6245,12206 6068,12009 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id68">
+       <path fill="rgb(127,127,127)" stroke="none" d="M 6245,12127 L 6068,12009 6245,12206 6245,12127 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id69">
+       <path fill="rgb(90,90,90)" stroke="none" d="M 5997,11851 L 6068,12009 6245,11930 5997,11851 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id70">
+       <path fill="rgb(110,110,110)" stroke="none" d="M 5927,7623 L 6139,7961 6245,7793 5927,7623 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id71">
+       <path fill="rgb(216,216,216)" stroke="none" d="M 5821,5896 L 6245,6150 6281,5854 5821,5896 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id72">
+       <path fill="rgb(223,223,223)" stroke="none" d="M 5927,5644 L 5821,5898 6281,5855 5927,5644 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id73">
+       <path fill="rgb(208,208,208)" stroke="none" d="M 6175,5601 L 5927,5643 6281,5855 6175,5601 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id74">
+       <path fill="rgb(124,124,124)" stroke="none" d="M 6068,12009 L 6245,12127 6245,11930 6068,12009 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id75">
+       <path fill="rgb(0,0,0)" stroke="none" d="M 5891,11499 L 5997,11853 6315,11499 5891,11499 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id76">
+       <path fill="rgb(211,211,211)" stroke="none" d="M 6140,4633 L 5927,4844 6140,5139 6140,4633 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id77">
+       <path fill="rgb(197,197,197)" stroke="none" d="M 5997,7370 L 6245,7793 6351,7666 5997,7370 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id78">
+       <path fill="rgb(163,163,163)" stroke="none" d="M 5997,11853 L 6245,11932 6351,11774 5997,11853 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id79">
+       <path fill="rgb(177,177,177)" stroke="none" d="M 6315,11499 L 5997,11853 6351,11775 6315,11499 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id80">
+       <path fill="rgb(140,140,140)" stroke="none" d="M 5998,7370 L 5927,7623 6245,7793 5998,7370 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id81">
+       <path fill="rgb(39,39,39)" stroke="none" d="M 5997,10047 L 6068,10166 6210,10205 5997,10047 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id82">
+       <path fill="rgb(93,93,93)" stroke="none" d="M 5856,12559 L 5998,12913 6104,12362 5856,12559 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id83">
+       <path fill="rgb(45,45,45)" stroke="none" d="M 5927,9616 L 5998,10049 6387,9931 5927,9616 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id84">
+       <path fill="rgb(59,59,59)" stroke="none" d="M 5997,10048 L 6209,10206 6386,9930 5997,10048 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id85">
+       <path fill="rgb(43,43,43)" stroke="none" d="M 5680,11067 L 5821,11421 6422,11185 5680,11067 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id86">
+       <path fill="rgb(11,11,11)" stroke="none" d="M 5821,11421 L 5892,11500 6422,11185 5821,11421 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id87">
+       <path fill="rgb(180,180,180)" stroke="none" d="M 5891,11500 L 6315,11500 6421,11185 5891,11500 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id88">
+       <path fill="rgb(117,117,117)" stroke="none" d="M 6421,8382 L 5997,8255 6421,8509 6421,8382 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id89">
+       <path fill="rgb(165,165,165)" stroke="none" d="M 6103,8043 L 5997,8254 6421,8381 6103,8043 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id90">
+       <path fill="rgb(33,33,33)" stroke="none" d="M 6068,10164 L 5715,10401 6210,10203 6068,10164 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id91">
+       <path fill="rgb(78,78,78)" stroke="none" d="M 5821,13187 L 5856,13383 5998,12911 5821,13187 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id92">
+       <path fill="rgb(242,242,242)" stroke="none" d="M 6315,11499 L 6351,11775 6457,11499 6315,11499 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id93">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 5998,8255 L 5715,8425 6422,8509 5998,8255 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id94">
+       <path fill="rgb(145,145,145)" stroke="none" d="M 5997,12911 L 5856,13383 6421,13462 5997,12911 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id95">
+       <path fill="rgb(153,153,153)" stroke="none" d="M 6386,12950 L 5997,12911 6421,13462 6386,12950 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id96">
+       <path fill="rgb(133,133,133)" stroke="none" d="M 6103,12362 L 5997,12913 6386,12951 6103,12362 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id97">
+       <path fill="rgb(185,185,185)" stroke="none" d="M 6350,7665 L 6244,7793 6527,7793 6350,7665 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id98">
+       <path fill="rgb(203,203,203)" stroke="none" d="M 6422,11185 L 6315,11500 6457,11500 6422,11185 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id99">
+       <path fill="rgb(150,150,150)" stroke="none" d="M 6138,7960 L 6103,8045 6421,8383 6138,7960 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id100">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 6103,12362 L 6386,12951 6563,12716 6103,12362 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id101">
+       <path fill="rgb(144,144,144)" stroke="none" d="M 6385,12952 L 6527,12991 6562,12715 6385,12952 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id102">
+       <path fill="rgb(0,0,0)" stroke="none" d="M 5715,10400 L 5680,11068 6422,11186 5715,10400 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id103">
+       <path fill="rgb(77,77,77)" stroke="none" d="M 6210,10204 L 5715,10401 6422,11186 6210,10204 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id104">
+       <path fill="rgb(184,184,184)" stroke="none" d="M 6421,8381 L 6421,8509 6634,8424 6421,8381 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id105">
+       <path fill="rgb(175,175,175)" stroke="none" d="M 6421,11185 L 6456,11500 6634,11224 6421,11185 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id106">
+       <path fill="rgb(163,163,163)" stroke="none" d="M 6244,12205 L 6103,12362 6563,12717 6244,12205 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id107">
+       <path fill="rgb(83,83,83)" stroke="none" d="M 6385,12950 L 6421,13462 6527,12989 6385,12950 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id108">
+       <path fill="rgb(91,91,91)" stroke="none" d="M 6244,7792 L 6138,7962 6527,7792 6244,7792 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id109">
+       <path fill="rgb(177,177,177)" stroke="none" d="M 6138,7960 L 6421,8383 6527,7792 6138,7960 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id110">
+       <path fill="rgb(138,138,138)" stroke="none" d="M 6633,11224 L 6456,11500 6669,11382 6633,11224 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id111">
+       <path fill="rgb(246,246,246)" stroke="none" d="M 6527,7792 L 6421,8383 6669,8172 6527,7792 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id112">
+       <path fill="rgb(235,235,235)" stroke="none" d="M 6421,8381 L 6634,8424 6669,8170 6421,8381 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id113">
+       <path fill="rgb(134,134,134)" stroke="none" d="M 6562,12715 L 6526,12991 6598,12715 6562,12715 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id114">
+       <path fill="rgb(158,158,158)" stroke="none" d="M 6668,11381 L 6456,11500 6739,11539 6668,11381 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id115">
+       <path fill="rgb(197,197,197)" stroke="none" d="M 6632,11224 L 6668,11382 6704,11224 6632,11224 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id116">
+       <path fill="rgb(161,161,161)" stroke="none" d="M 6456,11499 L 6350,11775 6774,11617 6456,11499 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id117">
+       <path fill="rgb(191,191,191)" stroke="none" d="M 6739,11539 L 6456,11499 6774,11618 6739,11539 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id118">
+       <path fill="rgb(212,212,212)" stroke="none" d="M 6526,7792 L 6668,8172 6739,7834 6526,7792 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id119">
+       <path fill="rgb(123,123,123)" stroke="none" d="M 6244,11932 L 6244,12128 6351,11774 6244,11932 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id120">
+       <path fill="rgb(167,167,167)" stroke="none" d="M 6738,7833 L 6667,8171 6774,8129 6738,7833 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id121">
+       <path fill="rgb(193,193,193)" stroke="none" d="M 6244,6149 L 6809,6613 6845,6317 6244,6149 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id122">
+       <path fill="rgb(110,110,110)" stroke="none" d="M 6738,11539 L 6774,11618 6845,11499 6738,11539 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id123">
+       <path fill="rgb(106,106,106)" stroke="none" d="M 6667,11381 L 6738,11539 6844,11500 6667,11381 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id124">
+       <path fill="rgb(204,204,204)" stroke="none" d="M 6809,10009 L 6385,9930 6845,10088 6809,10009 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id125">
+       <path fill="rgb(197,197,197)" stroke="none" d="M 6527,12989 L 6421,13461 6881,13068 6527,12989 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id126">
+       <path fill="rgb(188,188,188)" stroke="none" d="M 6597,12715 L 6526,12991 6880,13069 6597,12715 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id127">
+       <path fill="rgb(238,238,238)" stroke="none" d="M 6279,5854 L 6244,6150 6845,6318 6279,5854 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id128">
+       <path fill="rgb(195,195,195)" stroke="none" d="M 6138,4633 L 6138,5139 6845,4633 6138,4633 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id129">
+       <path fill="rgb(164,164,164)" stroke="none" d="M 6386,9930 L 6209,10206 6845,10088 6386,9930 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id130">
+       <path fill="rgb(159,159,159)" stroke="none" d="M 6668,8170 L 6632,8424 6774,8128 6668,8170 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id131">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 6244,12205 L 6562,12717 6598,12717 6244,12205 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id132">
+       <path fill="rgb(162,162,162)" stroke="none" d="M 6385,9930 L 6809,10009 6950,9812 6385,9930 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id133">
+       <path fill="rgb(191,191,191)" stroke="none" d="M 6845,6317 L 6809,6613 6881,6613 6845,6317 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id134">
+       <path fill="rgb(185,185,185)" stroke="none" d="M 6702,11224 L 6667,11382 6844,11500 6702,11224 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id135">
+       <path fill="rgb(138,138,138)" stroke="none" d="M 6174,5433 L 6174,5603 6281,5856 6174,5433 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id136">
+       <path fill="rgb(199,199,199)" stroke="none" d="M 6385,9931 L 6950,9812 7021,9694 6385,9931 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id137">
+       <path fill="rgb(237,237,237)" stroke="none" d="M 6279,5854 L 6844,6318 7021,5939 6279,5854 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id138">
+       <path fill="rgb(165,165,165)" stroke="none" d="M 6703,11224 L 6845,11499 6986,11145 6703,11224 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id139">
+       <path fill="rgb(192,192,192)" stroke="none" d="M 6809,10009 L 6845,10088 6951,9812 6809,10009 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id140">
+       <path fill="rgb(160,160,160)" stroke="none" d="M 6350,11774 L 6244,12129 6774,11617 6350,11774 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id141">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 6244,12126 L 6244,12206 7162,12126 6244,12126 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id142">
+       <path fill="rgb(240,240,240)" stroke="none" d="M 6174,5433 L 6280,5856 7022,5939 6174,5433 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id143">
+       <path fill="rgb(181,181,181)" stroke="none" d="M 5927,9616 L 6386,9931 7022,9695 5927,9616 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id144">
+       <path fill="rgb(189,189,189)" stroke="none" d="M 5962,4465 L 6139,4635 6845,4635 5962,4465 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id145">
+       <path fill="rgb(159,159,159)" stroke="none" d="M 6844,11499 L 6773,11617 7233,11775 6844,11499 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id146">
+       <path fill="rgb(103,103,103)" stroke="none" d="M 6773,11617 L 7162,12129 7233,11774 6773,11617 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id147">
+       <path fill="rgb(195,195,195)" stroke="none" d="M 6950,9812 L 6844,10088 7233,10127 6950,9812 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id148">
+       <path fill="rgb(150,150,150)" stroke="none" d="M 7197,9458 L 7269,9538 7269,9458 7197,9458 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id149">
+       <path fill="rgb(184,184,184)" stroke="none" d="M 7197,9458 L 7020,9695 7268,9537 7197,9458 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id150">
+       <path fill="rgb(212,212,212)" stroke="none" d="M 5927,9616 L 7021,9695 7198,9458 5927,9616 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id151">
+       <path fill="rgb(192,192,192)" stroke="none" d="M 7021,5938 L 6844,6318 7339,6149 7021,5938 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id152">
+       <path fill="rgb(235,235,235)" stroke="none" d="M 6844,11499 L 7233,11775 7339,11578 6844,11499 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id153">
+       <path fill="rgb(163,163,163)" stroke="none" d="M 7232,11774 L 7161,12128 7374,12050 7232,11774 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id154">
+       <path fill="rgb(152,152,152)" stroke="none" d="M 6985,11145 L 6844,11499 7339,11578 6985,11145 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id155">
+       <path fill="rgb(227,227,227)" stroke="none" d="M 7021,9694 L 6950,9812 7233,10127 7021,9694 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id156">
+       <path fill="rgb(234,234,234)" stroke="none" d="M 5962,4465 L 6845,4634 7162,4380 5962,4465 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id157">
+       <path fill="rgb(209,209,209)" stroke="none" d="M 7162,4380 L 6844,4634 7409,4676 7162,4380 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id158">
+       <path fill="rgb(222,222,222)" stroke="none" d="M 6738,7834 L 7339,8213 7409,7749 6738,7834 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id159">
+       <path fill="rgb(228,228,228)" stroke="none" d="M 7161,12127 L 7338,12324 7374,12048 7161,12127 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id160">
+       <path fill="rgb(165,165,165)" stroke="none" d="M 6738,7833 L 6773,8129 7339,8213 6738,7833 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id161">
+       <path fill="rgb(178,178,178)" stroke="none" d="M 6773,8128 L 6632,8424 7339,8213 6773,8128 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id162">
+       <path fill="rgb(214,214,214)" stroke="none" d="M 6844,6317 L 6879,6613 7339,6149 6844,6317 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id163">
+       <path fill="rgb(174,174,174)" stroke="none" d="M 6985,11145 L 7339,11578 7374,11106 6985,11145 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id164">
+       <path fill="rgb(192,192,192)" stroke="none" d="M 6879,6613 L 7303,6740 7339,6149 6879,6613 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id165">
+       <path fill="rgb(46,46,46)" stroke="none" d="M 7374,12048 L 7338,12324 7445,12285 7374,12048 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id166">
+       <path fill="rgb(99,99,99)" stroke="none" d="M 7161,4380 L 7409,4676 7515,4550 7161,4380 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id167">
+       <path fill="rgb(152,152,152)" stroke="none" d="M 7338,6149 L 7480,6613 7480,6234 7338,6149 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id168">
+       <path fill="rgb(137,137,137)" stroke="none" d="M 7337,6149 L 7302,6740 7479,6613 7337,6149 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id169">
+       <path fill="rgb(209,209,209)" stroke="none" d="M 7020,9694 L 7233,10126 7268,9537 7020,9694 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id170">
+       <path fill="rgb(102,102,102)" stroke="none" d="M 7338,11577 L 7232,11774 7550,11853 7338,11577 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id171">
+       <path fill="rgb(28,28,28)" stroke="none" d="M 7232,11774 L 7374,12050 7550,11853 7232,11774 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id172">
+       <path fill="rgb(183,183,183)" stroke="none" d="M 7409,4675 L 6844,4633 7551,4929 7409,4675 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id173">
+       <path fill="rgb(139,139,139)" stroke="none" d="M 7267,9537 L 7232,10126 7586,9970 7267,9537 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id174">
+       <path fill="rgb(29,29,29)" stroke="none" d="M 7549,4928 L 7585,5224 7585,4970 7549,4928 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id175">
+       <path fill="rgb(161,161,161)" stroke="none" d="M 7338,6150 L 7480,6235 7586,6107 7338,6150 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id176">
+       <path fill="rgb(83,83,83)" stroke="none" d="M 7267,9537 L 7585,9970 7656,9734 7267,9537 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id177"/>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id178">
+       <path fill="rgb(105,105,105)" stroke="none" d="M 7161,4382 L 7514,4550 7691,4212 7161,4382 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id179">
+       <path fill="rgb(24,24,24)" stroke="none" d="M 7691,4212 L 7514,4550 7727,4339 7691,4212 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id180">
+       <path fill="rgb(31,31,31)" stroke="none" d="M 7514,4549 L 7727,4465 7727,4338 7514,4549 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id181">
+       <path fill="rgb(46,46,46)" stroke="none" d="M 7514,4550 L 7691,4593 7727,4465 7514,4550 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id182">
+       <path fill="rgb(42,42,42)" stroke="none" d="M 7514,4548 L 7549,4928 7691,4590 7514,4548 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id183">
+       <path fill="rgb(55,55,55)" stroke="none" d="M 7515,4548 L 7408,4675 7550,4928 7515,4548 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id184">
+       <path fill="rgb(96,96,96)" stroke="none" d="M 7409,7749 L 7338,8213 7515,8298 7409,7749 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id185">
+       <path fill="rgb(106,106,106)" stroke="none" d="M 7408,7749 L 7514,8298 7762,7960 7408,7749 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id186">
+       <path fill="rgb(64,64,64)" stroke="none" d="M 7338,11577 L 7550,11853 7727,11774 7338,11577 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id187"/>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id188">
+       <path fill="rgb(70,70,70)" stroke="none" d="M 7267,9458 L 7267,9537 7656,9734 7267,9458 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id189">
+       <path fill="rgb(54,54,54)" stroke="none" d="M 7586,9968 L 7232,10126 7656,10008 7586,9968 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id190">
+       <path fill="rgb(89,89,89)" stroke="none" d="M 7585,5223 L 7798,5561 7798,5519 7585,5223 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id191">
+       <path fill="rgb(166,166,166)" stroke="none" d="M 7655,9735 L 7797,9735 7797,9616 7655,9735 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id192">
+       <path fill="rgb(42,42,42)" stroke="none" d="M 7373,12048 L 7444,12285 7797,12166 7373,12048 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id193">
+       <path fill="rgb(116,116,116)" stroke="none" d="M 7550,11851 L 7373,12048 7797,12166 7550,11851 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id194">
+       <path fill="rgb(104,104,104)" stroke="none" d="M 7585,6107 L 7479,6234 7797,6318 7585,6107 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id195">
+       <path fill="rgb(131,131,131)" stroke="none" d="M 7479,6233 L 7727,6613 7797,6318 7479,6233 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id196">
+       <path fill="rgb(70,70,70)" stroke="none" d="M 7479,6233 L 7479,6613 7727,6613 7479,6233 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id197">
+       <path fill="rgb(89,89,89)" stroke="none" d="M 7585,9970 L 7657,10009 7657,9733 7585,9970 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id198">
+       <path fill="rgb(93,93,93)" stroke="none" d="M 7585,6107 L 7798,6318 7833,6192 7585,6107 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id199">
+       <path fill="rgb(82,82,82)" stroke="none" d="M 7267,9458 L 7656,9734 7797,9616 7267,9458 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id200">
+       <path fill="rgb(189,189,189)" stroke="none" d="M 7868,9930 L 7655,10010 7868,10010 7868,9930 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id201">
+       <path fill="rgb(89,89,89)" stroke="none" d="M 7727,6612 L 7479,6612 7868,6782 7727,6612 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id202">
+       <path fill="rgb(175,175,175)" stroke="none" d="M 7338,11578 L 7727,11775 7868,11460 7338,11578 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id203">
+       <path fill="rgb(34,34,34)" stroke="none" d="M 7373,11106 L 7338,11578 7868,11460 7373,11106 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id204">
+       <path fill="rgb(108,108,108)" stroke="none" d="M 7585,10988 L 7373,11106 7868,11460 7585,10988 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id205">
+       <path fill="rgb(213,213,213)" stroke="none" d="M 7797,9733 L 7655,10009 7868,9930 7797,9733 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id206">
+       <path fill="rgb(129,129,129)" stroke="none" d="M 7762,7960 L 7514,8298 7868,8298 7762,7960 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id207">
+       <path fill="rgb(210,210,210)" stroke="none" d="M 7726,11774 L 7549,11853 7797,12168 7726,11774 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id208">
+       <path fill="rgb(210,210,210)" stroke="none" d="M 7655,9733 L 7655,10009 7797,9733 7655,9733 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id209">
+       <path fill="rgb(42,42,42)" stroke="none" d="M 7549,4929 L 7585,4971 7691,4591 7549,4929 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id210">
+       <path fill="rgb(236,236,236)" stroke="none" d="M 7868,10007 L 7655,10007 7903,10126 7868,10007 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id211">
+       <path fill="rgb(150,150,150)" stroke="none" d="M 7832,6191 L 7796,6319 7903,6276 7832,6191 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id212">
+       <path fill="rgb(139,139,139)" stroke="none" d="M 7796,5518 L 7796,5561 7903,5518 7796,5518 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id213">
+       <path fill="rgb(97,97,97)" stroke="none" d="M 7479,6612 L 7302,6740 7867,6782 7479,6612 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id214">
+       <path fill="rgb(192,192,192)" stroke="none" d="M 7338,8212 L 6632,8423 7515,8297 7338,8212 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id215">
+       <path fill="rgb(130,130,130)" stroke="none" d="M 7408,7749 L 7761,7961 7938,7538 7408,7749 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id216">
+       <path fill="rgb(165,165,165)" stroke="none" d="M 7903,10714 L 7585,10990 7939,10832 7903,10714 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id217">
+       <path fill="rgb(133,133,133)" stroke="none" d="M 7691,4213 L 7726,4339 7939,4128 7691,4213 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id218">
+       <path fill="rgb(85,85,85)" stroke="none" d="M 7585,5223 L 7797,5519 7939,5350 7585,5223 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id219">
+       <path fill="rgb(160,160,160)" stroke="none" d="M 7796,5519 L 7903,5519 7938,5349 7796,5519 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id220">
+       <path fill="rgb(43,43,43)" stroke="none" d="M 7656,10007 L 7232,10125 7903,10714 7656,10007 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id221">
+       <path fill="rgb(182,182,182)" stroke="none" d="M 7761,7960 L 7867,8298 7938,7960 7761,7960 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id222">
+       <path fill="rgb(84,84,84)" stroke="none" d="M 7867,6781 L 7302,6739 7938,7540 7867,6781 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id223">
+       <path fill="rgb(235,235,235)" stroke="none" d="M 7655,10007 L 7903,10714 7903,10125 7655,10007 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id224">
+       <path fill="rgb(151,151,151)" stroke="none" d="M 7444,12283 L 7338,12322 8009,13108 7444,12283 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id225">
+       <path fill="rgb(194,194,194)" stroke="none" d="M 7938,7538 L 7761,7961 7938,7961 7938,7538 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id226">
+       <path fill="rgb(88,88,88)" stroke="none" d="M 7585,4970 L 7585,5223 7939,5350 7585,4970 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id227">
+       <path fill="rgb(198,198,198)" stroke="none" d="M 7444,12283 L 8009,13108 8080,12716 7444,12283 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id228">
+       <path fill="rgb(160,160,160)" stroke="none" d="M 8080,12637 L 7444,12283 8080,12716 8080,12637 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id229">
+       <path fill="rgb(152,152,152)" stroke="none" d="M 7867,6780 L 7938,7539 8080,7244 7867,6780 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id230">
+       <path fill="rgb(122,122,122)" stroke="none" d="M 7973,12245 L 7796,12166 8079,12442 7973,12245 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id231">
+       <path fill="rgb(184,184,184)" stroke="none" d="M 7796,12166 L 8079,12638 8079,12442 7796,12166 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id232">
+       <path fill="rgb(187,187,187)" stroke="none" d="M 7797,12166 L 7444,12284 8080,12638 7797,12166 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id233">
+       <path fill="rgb(249,249,249)" stroke="none" d="M 7585,10988 L 7868,11460 8009,11382 7585,10988 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id234">
+       <path fill="rgb(112,112,112)" stroke="none" d="M 7797,6318 L 7726,6614 7903,6276 7797,6318 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id235">
+       <path fill="rgb(204,204,204)" stroke="none" d="M 7937,5349 L 7902,5519 8115,5477 7937,5349 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id236">
+       <path fill="rgb(156,156,156)" stroke="none" d="M 8043,5306 L 7937,5349 8114,5476 8043,5306 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id237">
+       <path fill="rgb(115,115,115)" stroke="none" d="M 7902,10125 L 7902,10714 8115,10479 7902,10125 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id238">
+       <path fill="rgb(148,148,148)" stroke="none" d="M 8080,6907 L 7867,6780 8080,7244 8080,6907 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id239">
+       <path fill="rgb(182,182,182)" stroke="none" d="M 7939,10832 L 7585,10989 8009,11383 7939,10832 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id240">
+       <path fill="rgb(156,156,156)" stroke="none" d="M 7867,9930 L 7867,10010 8150,10010 7867,9930 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id241">
+       <path fill="rgb(148,148,148)" stroke="none" d="M 7867,10007 L 7902,10126 8150,10007 7867,10007 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id242">
+       <path fill="rgb(224,224,224)" stroke="none" d="M 7973,12244 L 8080,12442 8115,12205 7973,12244 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id243">
+       <path fill="rgb(108,108,108)" stroke="none" d="M 7726,4339 L 7726,4466 7939,4128 7726,4339 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id244">
+       <path fill="rgb(72,72,72)" stroke="none" d="M 7726,6614 L 7868,6782 7903,6276 7726,6614 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id245">
+       <path fill="rgb(143,143,143)" stroke="none" d="M 7902,6276 L 7867,6782 8185,6614 7902,6276 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id246">
+       <path fill="rgb(101,101,101)" stroke="none" d="M 7867,6782 L 8079,6908 8185,6612 7867,6782 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id247">
+       <path fill="rgb(166,166,166)" stroke="none" d="M 7902,10714 L 7937,10833 8185,10793 7902,10714 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id248">
+       <path fill="rgb(108,108,108)" stroke="none" d="M 7726,4465 L 7691,4592 8186,4719 7726,4465 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id249">
+       <path fill="rgb(51,51,51)" stroke="none" d="M 7691,4591 L 7585,4971 8186,4718 7691,4591 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id250">
+       <path fill="rgb(127,127,127)" stroke="none" d="M 7585,4970 L 7939,5350 8045,5308 7585,4970 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id251">
+       <path fill="rgb(179,179,179)" stroke="none" d="M 8114,10479 L 7902,10716 8220,10716 8114,10479 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id252">
+       <path fill="rgb(183,183,183)" stroke="none" d="M 7902,10714 L 8185,10794 8220,10714 7902,10714 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id253">
+       <path fill="rgb(158,158,158)" stroke="none" d="M 7902,10125 L 8114,10479 8220,10283 7902,10125 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id254">
+       <path fill="rgb(167,167,167)" stroke="none" d="M 8150,10007 L 7902,10125 8220,10283 8150,10007 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id255">
+       <path fill="rgb(201,201,201)" stroke="none" d="M 8185,4717 L 8043,5308 8220,4759 8185,4717 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id256">
+       <path fill="rgb(189,189,189)" stroke="none" d="M 7938,4128 L 7726,4466 8186,4719 7938,4128 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id257">
+       <path fill="rgb(197,197,197)" stroke="none" d="M 7585,4970 L 8044,5308 8186,4717 7585,4970 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id258">
+       <path fill="rgb(143,143,143)" stroke="none" d="M 7796,9733 L 7867,9930 8150,10009 7796,9733 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id259">
+       <path fill="rgb(138,138,138)" stroke="none" d="M 7726,11774 L 7797,12168 8115,12207 7726,11774 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id260">
+       <path fill="rgb(124,124,124)" stroke="none" d="M 7796,12166 L 7973,12246 8114,12206 7796,12166 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id261">
+       <path fill="rgb(166,166,166)" stroke="none" d="M 8079,6907 L 8079,7245 8362,7034 8079,6907 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id262">
+       <path fill="rgb(186,186,186)" stroke="none" d="M 8185,6612 L 8079,6908 8362,7035 8185,6612 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id263">
+       <path fill="rgb(162,162,162)" stroke="none" d="M 7937,10832 L 8008,11382 8185,10793 7937,10832 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id264">
+       <path fill="rgb(129,129,129)" stroke="none" d="M 7796,9616 L 7796,9734 8150,10010 7796,9616 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id265">
+       <path fill="rgb(219,219,219)" stroke="none" d="M 7868,11460 L 7726,11775 8009,11381 7868,11460 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id266">
+       <path fill="rgb(164,164,164)" stroke="none" d="M 8079,12637 L 8079,12717 8503,12717 8079,12637 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id267">
+       <path fill="rgb(142,142,142)" stroke="none" d="M 8079,12441 L 8079,12638 8503,12717 8079,12441 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id268">
+       <path fill="rgb(175,175,175)" stroke="none" d="M 8079,12715 L 8008,13109 8503,12715 8079,12715 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id269">
+       <path fill="rgb(143,143,143)" stroke="none" d="M 8221,10282 L 8114,10479 8221,10715 8221,10282 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id270">
+       <path fill="rgb(161,161,161)" stroke="none" d="M 8114,12205 L 8079,12441 8503,12717 8114,12205 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id271">
+       <path fill="rgb(200,200,200)" stroke="none" d="M 8008,13108 L 8079,13383 8503,12715 8008,13108 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id272">
+       <path fill="rgb(99,99,99)" stroke="none" d="M 8503,12715 L 8079,13383 8821,13069 8503,12715 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id273">
+       <path fill="rgb(47,47,47)" stroke="none" d="M 8573,12715 L 8502,12715 8820,13069 8573,12715 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id274">
+       <path fill="rgb(220,220,220)" stroke="none" d="M 8043,5307 L 8114,5476 8220,4759 8043,5307 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id275">
+       <path fill="rgb(121,121,121)" stroke="none" d="M 8763,9655 L 8934,9852 8969,9694 8763,9655 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id276">
+       <path fill="rgb(185,185,185)" stroke="none" d="M 8891,5504 L 8855,5433 8891,5681 8891,5504 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id277">
+       <path fill="rgb(41,41,41)" stroke="none" d="M 8821,13068 L 8079,13383 8763,13209 8821,13068 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id278">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 8926,6174 L 8184,6210 8926,6210 8926,6174 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id279">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 8114,12205 L 8503,12717 8574,12717 8114,12205 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id280">
+       <path fill="rgb(31,31,31)" stroke="none" d="M 8763,9655 L 8968,9695 9140,9458 8763,9655 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id281">
+       <path fill="rgb(89,89,89)" stroke="none" d="M 8925,6174 L 8925,6210 8961,6246 8925,6174 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id282">
+       <path fill="rgb(109,109,109)" stroke="none" d="M 8925,6174 L 8961,6245 9067,6138 8925,6174 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id283">
+       <path fill="rgb(42,42,42)" stroke="none" d="M 9067,5962 L 8925,6175 9067,6139 9067,5962 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id284">
+       <path fill="rgb(160,160,160)" stroke="none" d="M 8819,5891 L 8925,6174 9067,5962 8819,5891 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id285">
+       <path fill="rgb(192,192,192)" stroke="none" d="M 8362,7034 L 8079,7245 8382,7236 8362,7034 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id286">
+       <path fill="rgb(133,133,133)" stroke="none" d="M 8078,7243 L 7937,7539 8382,7235 8078,7243 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id287">
+       <path fill="rgb(7,7,7)" stroke="none" d="M 9139,9458 L 8968,9695 9174,9537 9139,9458 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id288">
+       <path fill="rgb(96,96,96)" stroke="none" d="M 9066,5962 L 9066,6139 9102,6068 9066,5962 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id289">
+       <path fill="rgb(118,118,118)" stroke="none" d="M 7937,7538 L 7937,7961 8382,7235 7937,7538 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id290">
+       <path fill="rgb(107,107,107)" stroke="none" d="M 9140,11145 L 9105,11891 9243,11499 9140,11145 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id291">
+       <path fill="rgb(156,156,156)" stroke="none" d="M 9139,12480 L 9174,12795 9243,12638 9139,12480 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id292">
+       <path fill="rgb(85,85,85)" stroke="none" d="M 8890,5680 L 8819,5892 9067,5963 8890,5680 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id293">
+       <path fill="rgb(143,143,143)" stroke="none" d="M 8890,5503 L 8890,5680 9173,5503 8890,5503 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id294">
+       <path fill="rgb(83,83,83)" stroke="none" d="M 9102,5080 L 8996,5152 9209,5152 9102,5080 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id295">
+       <path fill="rgb(137,137,137)" stroke="none" d="M 8855,5433 L 8890,5505 9173,5505 8855,5433 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id296">
+       <path fill="rgb(88,88,88)" stroke="none" d="M 9066,5962 L 9101,6069 9243,5998 9066,5962 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id297">
+       <path fill="rgb(114,114,114)" stroke="none" d="M 9139,11145 L 9242,11499 9345,11381 9139,11145 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id298">
+       <path fill="rgb(37,37,37)" stroke="none" d="M 9105,11893 L 9243,11893 9345,11735 9105,11893 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id299">
+       <path fill="rgb(73,73,73)" stroke="none" d="M 9243,11499 L 9105,11893 9345,11735 9243,11499 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id300">
+       <path fill="rgb(92,92,92)" stroke="none" d="M 9208,10597 L 9139,11148 9345,10912 9208,10597 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id301">
+       <path fill="rgb(64,64,64)" stroke="none" d="M 9067,6138 L 8961,6244 9244,6351 9067,6138 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id302">
+       <path fill="rgb(40,40,40)" stroke="none" d="M 8961,6244 L 9067,6951 9209,6809 8961,6244 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id303">
+       <path fill="rgb(106,106,106)" stroke="none" d="M 8997,5151 L 8855,5434 9173,5505 8997,5151 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id304">
+       <path fill="rgb(24,24,24)" stroke="none" d="M 8961,6244 L 9209,6809 9244,6350 8961,6244 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id305">
+       <path fill="rgb(39,39,39)" stroke="none" d="M 8996,5151 L 9173,5505 9209,5151 8996,5151 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id306">
+       <path fill="rgb(142,142,142)" stroke="none" d="M 9105,11892 L 9140,12481 9243,11892 9105,11892 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id307">
+       <path fill="rgb(146,146,146)" stroke="none" d="M 9345,11735 L 9241,11893 9379,11972 9345,11735 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id308">
+       <path fill="rgb(82,82,82)" stroke="none" d="M 9242,11892 L 9139,12481 9379,11971 9242,11892 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id309">
+       <path fill="rgb(111,111,111)" stroke="none" d="M 9173,12794 L 9173,13070 9344,13109 9173,12794 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id310">
+       <path fill="rgb(118,118,118)" stroke="none" d="M 9173,13068 L 9125,13209 9345,13108 9173,13068 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id311">
+       <path fill="rgb(101,101,101)" stroke="none" d="M 8890,5680 L 9067,5963 9173,5503 8890,5680 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id312">
+       <path fill="rgb(53,53,53)" stroke="none" d="M 8967,9695 L 8933,9852 9173,9537 8967,9695 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id313">
+       <path fill="rgb(157,157,157)" stroke="none" d="M 9207,5151 L 9242,5505 9384,5222 9207,5151 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id314">
+       <path fill="rgb(104,104,104)" stroke="none" d="M 9139,12480 L 9242,12638 9482,12441 9139,12480 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id315">
+       <path fill="rgb(103,103,103)" stroke="none" d="M 9066,6950 L 9278,7233 9384,7127 9066,6950 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id316">
+       <path fill="rgb(125,125,125)" stroke="none" d="M 9173,10518 L 9207,10598 9481,10518 9173,10518 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id317">
+       <path fill="rgb(54,54,54)" stroke="none" d="M 9101,6068 L 9066,6139 9243,6351 9101,6068 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id318">
+       <path fill="rgb(99,99,99)" stroke="none" d="M 9208,5151 L 9172,5505 9244,5505 9208,5151 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id319">
+       <path fill="rgb(82,82,82)" stroke="none" d="M 9379,11969 L 9139,12481 9482,12441 9379,11969 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id320">
+       <path fill="rgb(116,116,116)" stroke="none" d="M 9208,6809 L 9066,6951 9384,7127 9208,6809 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id321">
+       <path fill="rgb(92,92,92)" stroke="none" d="M 9139,9458 L 9173,9537 9447,9577 9139,9458 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id322">
+       <path fill="rgb(58,58,58)" stroke="none" d="M 9102,6068 L 9244,6351 9244,5997 9102,6068 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id323">
+       <path fill="rgb(56,56,56)" stroke="none" d="M 9172,5503 L 9066,5963 9243,5998 9172,5503 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id324">
+       <path fill="rgb(166,166,166)" stroke="none" d="M 9243,5503 L 9172,5503 9455,5786 9243,5503 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id325">
+       <path fill="rgb(131,131,131)" stroke="none" d="M 9172,5503 L 9243,5998 9455,5786 9172,5503 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id326">
+       <path fill="rgb(166,166,166)" stroke="none" d="M 9344,13107 L 9125,13209 9549,13383 9344,13107 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id327">
+       <path fill="rgb(105,105,105)" stroke="none" d="M 9208,10597 L 9346,10912 9482,10518 9208,10597 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id328">
+       <path fill="rgb(85,85,85)" stroke="none" d="M 9241,11499 L 9345,11735 9345,11381 9241,11499 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id329">
+       <path fill="rgb(56,56,56)" stroke="none" d="M 9345,10911 L 9139,11147 9345,11383 9345,10911 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id330">
+       <path fill="rgb(154,154,154)" stroke="none" d="M 9482,10518 L 9344,10912 9584,10676 9482,10518 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id331">
+       <path fill="rgb(138,138,138)" stroke="none" d="M 9550,10518 L 9481,10518 9585,10676 9550,10518 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id332">
+       <path fill="rgb(76,76,76)" stroke="none" d="M 9071,10243 L 9174,10519 9482,10519 9071,10243 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id333">
+       <path fill="rgb(149,149,149)" stroke="none" d="M 9172,9537 L 8933,9852 9446,9576 9172,9537 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id334">
+       <path fill="rgb(121,121,121)" stroke="none" d="M 9384,7126 L 9278,7233 9526,7233 9384,7126 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id335">
+       <path fill="rgb(107,107,107)" stroke="none" d="M 8933,9851 L 9070,10244 9446,9576 8933,9851 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id336">
+       <path fill="rgb(159,159,159)" stroke="none" d="M 9378,11969 L 9481,12441 9652,12245 9378,11969 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id337">
+       <path fill="rgb(184,184,184)" stroke="none" d="M 9384,7127 L 9526,7233 9561,7056 9384,7127 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id338">
+       <path fill="rgb(228,228,228)" stroke="none" d="M 9344,13107 L 9549,13383 9652,13225 9344,13107 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id339">
+       <path fill="rgb(118,118,118)" stroke="none" d="M 9242,12637 L 9173,12794 9344,13109 9242,12637 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id340">
+       <path fill="rgb(233,233,233)" stroke="none" d="M 9378,11969 L 9652,12245 9686,11969 9378,11969 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id341">
+       <path fill="rgb(125,125,125)" stroke="none" d="M 9207,6809 L 9384,7127 9561,7057 9207,6809 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id342">
+       <path fill="rgb(141,141,141)" stroke="none" d="M 9597,4339 L 9102,5081 9632,4516 9597,4339 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id343">
+       <path fill="rgb(115,115,115)" stroke="none" d="M 9344,11735 L 9378,11972 9687,11972 9344,11735 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id344">
+       <path fill="rgb(211,211,211)" stroke="none" d="M 9447,9576 L 9721,9734 9755,9537 9447,9576 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id345">
+       <path fill="rgb(227,227,227)" stroke="none" d="M 9755,9419 L 9447,9577 9755,9538 9755,9419 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id346">
+       <path fill="rgb(195,195,195)" stroke="none" d="M 9548,10518 L 9582,10676 9754,10479 9548,10518 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id347">
+       <path fill="rgb(135,135,135)" stroke="none" d="M 9526,7232 L 9278,7232 9667,7586 9526,7232 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id348">
+       <path fill="rgb(132,132,132)" stroke="none" d="M 9241,12637 L 9344,13109 9754,12794 9241,12637 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id349">
+       <path fill="rgb(182,182,182)" stroke="none" d="M 9480,12441 L 9241,12638 9754,12795 9480,12441 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id350">
+       <path fill="rgb(212,212,212)" stroke="none" d="M 9755,12794 L 9651,13227 9789,13109 9755,12794 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id351">
+       <path fill="rgb(74,74,74)" stroke="none" d="M 9384,5222 L 9702,5115 9702,5009 9384,5222 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id352">
+       <path fill="rgb(141,141,141)" stroke="none" d="M 9207,5151 L 9384,5222 9702,5009 9207,5151 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id353">
+       <path fill="rgb(94,94,94)" stroke="none" d="M 9631,4516 L 9207,5152 9702,5011 9631,4516 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id354">
+       <path fill="rgb(192,192,192)" stroke="none" d="M 9207,6809 L 9560,7057 9702,6809 9207,6809 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id355">
+       <path fill="rgb(78,78,78)" stroke="none" d="M 9560,7057 L 9631,7022 9702,6809 9560,7057 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id356">
+       <path fill="rgb(195,195,195)" stroke="none" d="M 9344,13109 L 9652,13227 9755,12794 9344,13109 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id357">
+       <path fill="rgb(176,176,176)" stroke="none" d="M 9102,5081 L 9208,5152 9632,4516 9102,5081 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id358">
+       <path fill="rgb(127,127,127)" stroke="none" d="M 9448,9576 L 9071,10244 9721,9733 9448,9576 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id359">
+       <path fill="rgb(201,201,201)" stroke="none" d="M 9071,10244 L 9482,10519 9721,9733 9071,10244 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id360">
+       <path fill="rgb(78,78,78)" stroke="none" d="M 9419,8186 L 9773,8080 9773,7832 9419,8186 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id361">
+       <path fill="rgb(84,84,84)" stroke="none" d="M 9596,4339 L 9631,4516 9773,4481 9596,4339 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id362">
+       <path fill="rgb(214,214,214)" stroke="none" d="M 9583,10675 L 9344,10912 9857,10951 9583,10675 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id363">
+       <path fill="rgb(50,50,50)" stroke="none" d="M 9754,9419 L 9754,9538 9858,9459 9754,9419 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id364">
+       <path fill="rgb(170,170,170)" stroke="none" d="M 9242,6350 L 9207,6810 9702,6810 9242,6350 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id365">
+       <path fill="rgb(166,166,166)" stroke="none" d="M 9139,9459 L 9447,9577 9755,9419 9139,9459 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id366">
+       <path fill="rgb(183,183,183)" stroke="none" d="M 9481,10519 L 9550,10519 9721,9733 9481,10519 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id367">
+       <path fill="rgb(65,65,65)" stroke="none" d="M 9702,6809 L 9631,7022 9808,6986 9702,6809 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id368">
+       <path fill="rgb(68,68,68)" stroke="none" d="M 9631,7021 L 9808,7127 9808,6985 9631,7021 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id369">
+       <path fill="rgb(77,77,77)" stroke="none" d="M 9631,7020 L 9525,7233 9808,7126 9631,7020 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id370">
+       <path fill="rgb(129,129,129)" stroke="none" d="M 9344,10911 L 9344,11383 9857,10950 9344,10911 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id371">
+       <path fill="rgb(80,80,80)" stroke="none" d="M 9561,7055 L 9525,7233 9632,7020 9561,7055 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id372">
+       <path fill="rgb(60,60,60)" stroke="none" d="M 9809,8431 L 9596,8466 9844,8644 9809,8431 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id373">
+       <path fill="rgb(94,94,94)" stroke="none" d="M 9419,8185 L 9596,8468 9773,8079 9419,8185 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id374">
+       <path fill="rgb(186,186,186)" stroke="none" d="M 9719,9733 L 9548,10519 9754,10479 9719,9733 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id375">
+       <path fill="rgb(95,95,95)" stroke="none" d="M 9596,4340 L 9773,4481 9844,4198 9596,4340 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id376">
+       <path fill="rgb(132,132,132)" stroke="none" d="M 9773,8079 L 9596,8468 9809,8433 9773,8079 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id377">
+       <path fill="rgb(214,214,214)" stroke="none" d="M 9652,12244 L 9481,12441 9755,12795 9652,12244 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id378">
+       <path fill="rgb(158,158,158)" stroke="none" d="M 9385,5221 L 9243,5504 9456,5786 9385,5221 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id379">
+       <path fill="rgb(66,66,66)" stroke="none" d="M 9808,4480 L 9772,4480 9914,4693 9808,4480 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id380">
+       <path fill="rgb(102,102,102)" stroke="none" d="M 9773,4480 L 9631,4515 9914,4693 9773,4480 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id381">
+       <path fill="rgb(101,101,101)" stroke="none" d="M 9631,4516 L 9879,4905 9914,4693 9631,4516 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id382">
+       <path fill="rgb(37,37,37)" stroke="none" d="M 9772,7832 L 9772,8080 9914,7903 9772,7832 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id383">
+       <path fill="rgb(108,108,108)" stroke="none" d="M 9631,4516 L 9702,5011 9879,4905 9631,4516 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id384">
+       <path fill="rgb(123,123,123)" stroke="none" d="M 9772,4481 L 9808,4481 9844,4198 9772,4481 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id385">
+       <path fill="rgb(177,177,177)" stroke="none" d="M 9754,10479 L 9583,10676 9857,10951 9754,10479 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id386">
+       <path fill="rgb(29,29,29)" stroke="none" d="M 9914,4480 L 9807,4480 9914,4693 9914,4480 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id387">
+       <path fill="rgb(26,26,26)" stroke="none" d="M 9843,4198 L 9807,4481 9914,4481 9843,4198 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id388">
+       <path fill="rgb(70,70,70)" stroke="none" d="M 9701,5010 L 9701,5117 9878,4904 9701,5010 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id389">
+       <path fill="rgb(96,96,96)" stroke="none" d="M 9525,7232 L 9667,7586 9808,7126 9525,7232 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id390">
+       <path fill="rgb(131,131,131)" stroke="none" d="M 9384,5221 L 9455,5786 9702,5115 9384,5221 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id391">
+       <path fill="rgb(170,170,170)" stroke="none" d="M 9344,11381 L 9344,11735 9687,11970 9344,11381 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id392">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 9857,10949 L 9344,11382 10097,11225 9857,10949 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id393">
+       <path fill="rgb(44,44,44)" stroke="none" d="M 9913,4480 L 9913,4693 10020,4515 9913,4480 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id394">
+       <path fill="rgb(122,122,122)" stroke="none" d="M 9807,8431 L 9843,8644 9949,8396 9807,8431 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id395">
+       <path fill="rgb(90,90,90)" stroke="none" d="M 9772,8079 L 9807,8433 9949,8397 9772,8079 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id396">
+       <path fill="rgb(62,62,62)" stroke="none" d="M 9755,9537 L 9720,9734 9858,9458 9755,9537 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id397">
+       <path fill="rgb(127,127,127)" stroke="none" d="M 9243,5998 L 9243,6351 9456,5786 9243,5998 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id398">
+       <path fill="rgb(113,113,113)" stroke="none" d="M 9772,8079 L 9949,8397 10090,8185 9772,8079 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id399">
+       <path fill="rgb(117,117,117)" stroke="none" d="M 9754,12794 L 9788,13109 10165,12833 9754,12794 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id400">
+       <path fill="rgb(205,205,205)" stroke="none" d="M 9344,11381 L 9686,11970 10097,11224 9344,11381 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id401">
+       <path fill="rgb(36,36,36)" stroke="none" d="M 9843,4198 L 9915,4481 9915,4163 9843,4198 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id402">
+       <path fill="rgb(25,25,25)" stroke="none" d="M 9807,7126 L 9666,7586 10126,7480 9807,7126 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id403">
+       <path fill="rgb(129,129,129)" stroke="none" d="M 9914,7902 L 9772,8079 10090,8185 9914,7902 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id404">
+       <path fill="rgb(52,52,52)" stroke="none" d="M 9754,10479 L 9857,10951 10233,10676 9754,10479 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id405">
+       <path fill="rgb(27,27,27)" stroke="none" d="M 9666,7585 L 9772,7833 10126,7479 9666,7585 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id406">
+       <path fill="rgb(178,178,178)" stroke="none" d="M 9913,7902 L 10090,8185 10196,8079 9913,7902 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id407">
+       <path fill="rgb(69,69,69)" stroke="none" d="M 10165,12832 L 9788,13108 10234,13226 10165,12832 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id408">
+       <path fill="rgb(89,89,89)" stroke="none" d="M 9754,12794 L 10165,12834 10200,12794 9754,12794 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id409">
+       <path fill="rgb(121,121,121)" stroke="none" d="M 9772,7833 L 9914,7903 10126,7479 9772,7833 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id410">
+       <path fill="rgb(40,40,40)" stroke="none" d="M 9913,4163 L 9913,4481 10020,4517 9913,4163 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id411">
+       <path fill="rgb(112,112,112)" stroke="none" d="M 9807,7126 L 10125,7480 10231,7338 9807,7126 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id412">
+       <path fill="rgb(101,101,101)" stroke="none" d="M 9788,13107 L 9651,13226 10233,13226 9788,13107 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id413">
+       <path fill="rgb(138,138,138)" stroke="none" d="M 10232,7338 L 10125,7480 10267,7480 10232,7338 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id414">
+       <path fill="rgb(136,136,136)" stroke="none" d="M 10125,7479 L 10267,7586 10267,7479 10125,7479 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id415">
+       <path fill="rgb(50,50,50)" stroke="none" d="M 9856,10950 L 10096,11226 10233,10675 9856,10950 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id416">
+       <path fill="rgb(172,172,172)" stroke="none" d="M 10125,7479 L 9913,7903 10267,7585 10125,7479 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id417">
+       <path fill="rgb(176,176,176)" stroke="none" d="M 9651,13225 L 9548,13383 10233,13225 9651,13225 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id418">
+       <path fill="rgb(57,57,57)" stroke="none" d="M 9913,4163 L 10019,4517 10337,4305 9913,4163 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id419">
+       <path fill="rgb(146,146,146)" stroke="none" d="M 10302,4163 L 9913,4163 10337,4305 10302,4163 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id420">
+       <path fill="rgb(112,112,112)" stroke="none" d="M 10234,10675 L 10096,11226 10439,10990 10234,10675 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id421">
+       <path fill="rgb(88,88,88)" stroke="none" d="M 10019,4517 L 10337,4552 10337,4304 10019,4517 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id422">
+       <path fill="rgb(188,188,188)" stroke="none" d="M 10370,11892 L 10130,11932 10404,11932 10370,11892 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id423">
+       <path fill="rgb(67,67,67)" stroke="none" d="M 10019,4516 L 9913,4693 10337,4551 10019,4516 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id424">
+       <path fill="rgb(145,145,145)" stroke="none" d="M 9455,5786 L 9243,6351 9703,6810 9455,5786 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id425">
+       <path fill="rgb(67,67,67)" stroke="none" d="M 10403,11930 L 10473,12167 10473,12048 10403,11930 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id426">
+       <path fill="rgb(152,152,152)" stroke="none" d="M 10130,11930 L 10335,12402 10473,12166 10130,11930 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id427">
+       <path fill="rgb(184,184,184)" stroke="none" d="M 10404,11930 L 10130,11930 10473,12167 10404,11930 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id428">
+       <path fill="rgb(124,124,124)" stroke="none" d="M 9913,7903 L 10196,8080 10267,7585 9913,7903 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id429">
+       <path fill="rgb(89,89,89)" stroke="none" d="M 9807,6985 L 9807,7127 10231,7339 9807,6985 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id430">
+       <path fill="rgb(63,63,63)" stroke="none" d="M 10473,12166 L 10335,12403 10506,12245 10473,12166 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id431">
+       <path fill="rgb(94,94,94)" stroke="none" d="M 10096,11224 L 10130,11931 10370,11892 10096,11224 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id432">
+       <path fill="rgb(130,130,130)" stroke="none" d="M 8763,13210 L 8079,13384 8890,13351 8763,13210 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id433">
+       <path fill="rgb(75,75,75)" stroke="none" d="M 9913,4692 L 9878,4905 10479,4692 9913,4692 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id434">
+       <path fill="rgb(79,79,79)" stroke="none" d="M 10337,4551 L 9913,4693 10478,4693 10337,4551 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id435">
+       <path fill="rgb(67,67,67)" stroke="none" d="M 10096,11224 L 10370,11892 10542,11460 10096,11224 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id436">
+       <path fill="rgb(101,101,101)" stroke="none" d="M 10439,10988 L 10096,11224 10542,11460 10439,10988 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id437">
+       <path fill="rgb(124,124,124)" stroke="none" d="M 10198,12794 L 10163,12833 10233,13227 10198,12794 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id438">
+       <path fill="rgb(99,99,99)" stroke="none" d="M 10266,7585 L 10195,8080 10549,7762 10266,7585 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id439">
+       <path fill="rgb(80,80,80)" stroke="none" d="M 10195,8079 L 10089,8185 10549,8256 10195,8079 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id440">
+       <path fill="rgb(121,121,121)" stroke="none" d="M 10584,4163 L 10336,4305 10584,4305 10584,4163 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id441">
+       <path fill="rgb(132,132,132)" stroke="none" d="M 10301,4164 L 10584,4164 10584,4128 10301,4164 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id442">
+       <path fill="rgb(92,92,92)" stroke="none" d="M 10301,4163 L 10336,4305 10584,4163 10301,4163 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id443">
+       <path fill="rgb(80,80,80)" stroke="none" d="M 9720,9733 L 9754,10479 10233,10676 9720,9733 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id444">
+       <path fill="rgb(102,102,102)" stroke="none" d="M 10089,8184 L 9948,8397 10619,8432 10089,8184 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id445">
+       <path fill="rgb(41,41,41)" stroke="none" d="M 10548,8255 L 10089,8184 10619,8432 10548,8255 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id446">
+       <path fill="rgb(116,116,116)" stroke="none" d="M 10583,4163 L 10583,4305 10619,4234 10583,4163 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id447">
+       <path fill="rgb(116,116,116)" stroke="none" d="M 10336,4551 L 10478,4693 10619,4622 10336,4551 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id448">
+       <path fill="rgb(91,91,91)" stroke="none" d="M 10403,11930 L 10472,12048 10677,11851 10403,11930 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id449">
+       <path fill="rgb(70,70,70)" stroke="none" d="M 10369,11891 L 10403,11931 10677,11851 10369,11891 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id450">
+       <path fill="rgb(99,99,99)" stroke="none" d="M 10336,4304 L 10336,4552 10584,4304 10336,4304 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id451">
+       <path fill="rgb(192,192,192)" stroke="none" d="M 5962,4466 L 7162,4382 7692,4212 5962,4466 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id452">
+       <path fill="rgb(92,92,92)" stroke="none" d="M 10540,11460 L 10369,11893 10712,11775 10540,11460 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id453">
+       <path fill="rgb(125,125,125)" stroke="none" d="M 10369,11893 L 10677,11853 10712,11774 10369,11893 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id454">
+       <path fill="rgb(78,78,78)" stroke="none" d="M 10231,7338 L 10266,7480 10691,7374 10231,7338 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id455">
+       <path fill="rgb(147,147,147)" stroke="none" d="M 9949,8396 L 9843,8644 10620,8431 9949,8396 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id456">
+       <path fill="rgb(126,126,126)" stroke="none" d="M 10584,4304 L 10336,4552 10619,4622 10584,4304 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id457">
+       <path fill="rgb(63,63,63)" stroke="none" d="M 10195,8079 L 10549,8256 10549,7761 10195,8079 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id458">
+       <path fill="rgb(76,76,76)" stroke="none" d="M 10266,7479 L 10549,7762 10690,7373 10266,7479 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id459">
+       <path fill="rgb(97,97,97)" stroke="none" d="M 10266,7479 L 10266,7585 10549,7762 10266,7479 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id460">
+       <path fill="rgb(90,90,90)" stroke="none" d="M 10848,11851 L 10677,11851 10848,11931 10848,11851 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id461">
+       <path fill="rgb(73,73,73)" stroke="none" d="M 10677,11851 L 10848,12009 10848,11930 10677,11851 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id462">
+       <path fill="rgb(148,148,148)" stroke="none" d="M 10548,8255 L 10619,8432 10796,8255 10548,8255 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id463">
+       <path fill="rgb(0,0,0)" stroke="none" d="M 10231,7338 L 10690,7374 10796,7161 10231,7338 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id464">
+       <path fill="rgb(110,110,110)" stroke="none" d="M 10780,11106 L 10540,11460 10848,11303 10780,11106 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id465">
+       <path fill="rgb(138,138,138)" stroke="none" d="M 10471,12048 L 10505,12246 10848,12009 10471,12048 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id466">
+       <path fill="rgb(142,142,142)" stroke="none" d="M 10676,11851 L 10471,12048 10848,12009 10676,11851 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id467">
+       <path fill="rgb(59,59,59)" stroke="none" d="M 10711,11774 L 10677,11854 10848,11854 10711,11774 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id468">
+       <path fill="rgb(135,135,135)" stroke="none" d="M 10583,4128 L 10583,4164 10760,4057 10583,4128 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id469">
+       <path fill="rgb(113,113,113)" stroke="none" d="M 10583,4163 L 10618,4234 10760,4057 10583,4163 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id470">
+       <path fill="rgb(108,108,108)" stroke="none" d="M 10471,12048 L 10471,12166 10506,12245 10471,12048 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id471">
+       <path fill="rgb(33,33,33)" stroke="none" d="M 10711,11774 L 10849,11853 10882,11656 10711,11774 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id472">
+       <path fill="rgb(128,128,128)" stroke="none" d="M 10540,11460 L 10711,11775 10883,11657 10540,11460 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id473">
+       <path fill="rgb(127,127,127)" stroke="none" d="M 10796,8255 L 10619,8432 10832,8326 10796,8255 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id474">
+       <path fill="rgb(66,66,66)" stroke="none" d="M 10689,7373 L 10831,7550 10831,7515 10689,7373 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id475">
+       <path fill="rgb(64,64,64)" stroke="none" d="M 10690,7373 L 10548,7762 10831,7550 10690,7373 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id476">
+       <path fill="rgb(98,98,98)" stroke="none" d="M 10548,7762 L 10796,7762 10831,7549 10548,7762 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id477">
+       <path fill="rgb(84,84,84)" stroke="none" d="M 10831,7549 L 10795,7762 10867,7691 10831,7549 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id478">
+       <path fill="rgb(112,112,112)" stroke="none" d="M 10761,4057 L 10619,4234 10867,4163 10761,4057 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id479">
+       <path fill="rgb(60,60,60)" stroke="none" d="M 10848,11302 L 10540,11460 10883,11656 10848,11302 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id480">
+       <path fill="rgb(158,158,158)" stroke="none" d="M 10619,4621 L 10478,4692 10867,4728 10619,4621 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id481">
+       <path fill="rgb(137,137,137)" stroke="none" d="M 9857,9458 L 9720,9733 10233,10676 9857,9458 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id482">
+       <path fill="rgb(29,29,29)" stroke="none" d="M 10847,11302 L 10882,11656 10985,11499 10847,11302 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id483">
+       <path fill="rgb(155,155,155)" stroke="none" d="M 10866,4729 L 10902,4729 10938,4657 10866,4729 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id484">
+       <path fill="rgb(122,122,122)" stroke="none" d="M 10619,4621 L 10867,4728 10937,4657 10619,4621 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id485">
+       <path fill="rgb(115,115,115)" stroke="none" d="M 10548,7761 L 10548,8256 10796,7761 10548,7761 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id486">
+       <path fill="rgb(146,146,146)" stroke="none" d="M 10548,8256 L 10796,8256 10796,7761 10548,8256 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id487">
+       <path fill="rgb(88,88,88)" stroke="none" d="M 10847,12009 L 10505,12246 11018,12206 10847,12009 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id488">
+       <path fill="rgb(113,113,113)" stroke="none" d="M 10618,4234 L 10583,4305 10866,4163 10618,4234 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id489">
+       <path fill="rgb(64,64,64)" stroke="none" d="M 10847,11851 L 10847,11931 11053,11891 10847,11851 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id490">
+       <path fill="rgb(71,71,71)" stroke="none" d="M 10847,11932 L 10847,12011 11053,11892 10847,11932 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id491">
+       <path fill="rgb(50,50,50)" stroke="none" d="M 10881,11656 L 10847,11853 11053,11893 10881,11656 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id492">
+       <path fill="rgb(97,97,97)" stroke="none" d="M 10795,8255 L 10830,8326 10972,8362 10795,8255 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id493">
+       <path fill="rgb(80,80,80)" stroke="none" d="M 10583,4304 L 10618,4622 10937,4658 10583,4304 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id494">
+       <path fill="rgb(72,72,72)" stroke="none" d="M 10796,7161 L 10689,7373 10831,7515 10796,7161 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id495">
+       <path fill="rgb(104,104,104)" stroke="none" d="M 10847,12010 L 11018,12207 11053,11892 10847,12010 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id496">
+       <path fill="rgb(115,115,115)" stroke="none" d="M 10866,4163 L 10583,4304 10937,4658 10866,4163 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id497">
+       <path fill="rgb(223,223,223)" stroke="none" d="M 10936,4657 L 10901,4729 11114,4693 10936,4657 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id498">
+       <path fill="rgb(95,95,95)" stroke="none" d="M 11113,4551 L 10936,4658 11113,4693 11113,4551 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id499">
+       <path fill="rgb(87,87,87)" stroke="none" d="M 11053,11892 L 11018,12207 11122,11931 11053,11892 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id500">
+       <path fill="rgb(77,77,77)" stroke="none" d="M 10831,8326 L 10619,8433 10973,8362 10831,8326 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id501">
+       <path fill="rgb(172,172,172)" stroke="none" d="M 10866,4163 L 10937,4658 11149,4375 10866,4163 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id502">
+       <path fill="rgb(93,93,93)" stroke="none" d="M 10936,4657 L 11113,4551 11149,4374 10936,4657 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id503">
+       <path fill="rgb(147,147,147)" stroke="none" d="M 11148,4374 L 11112,4551 11184,4480 11148,4374 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id504">
+       <path fill="rgb(133,133,133)" stroke="none" d="M 11114,4128 L 10866,4163 11149,4376 11114,4128 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id505">
+       <path fill="rgb(145,145,145)" stroke="none" d="M 10760,4057 L 10866,4164 11114,4128 10760,4057 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id506">
+       <path fill="rgb(64,64,64)" stroke="none" d="M 10984,11499 L 10881,11657 11052,11893 10984,11499 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id507">
+       <path fill="rgb(138,138,138)" stroke="none" d="M 11183,4480 L 11112,4552 11219,4516 11183,4480 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id508">
+       <path fill="rgb(52,52,52)" stroke="none" d="M 11018,10518 L 11292,10794 11292,10597 11018,10518 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id509">
+       <path fill="rgb(92,92,92)" stroke="none" d="M 11017,10518 L 10778,11107 11291,10793 11017,10518 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id510">
+       <path fill="rgb(130,130,130)" stroke="none" d="M 11216,12786 L 10984,13265 11224,13070 11216,12786 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id511">
+       <path fill="rgb(81,81,81)" stroke="none" d="M 10972,8361 L 10619,8432 11149,8468 10972,8361 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id512">
+       <path fill="rgb(134,134,134)" stroke="none" d="M 10301,4164 L 10584,4128 10761,4057 10301,4164 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id513">
+       <path fill="rgb(168,168,168)" stroke="none" d="M 11148,4374 L 11184,4481 11290,4410 11148,4374 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id514">
+       <path fill="rgb(148,148,148)" stroke="none" d="M 11183,4481 L 11219,4517 11290,4410 11183,4481 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id515">
+       <path fill="rgb(160,160,160)" stroke="none" d="M 11254,7161 L 10830,7515 11290,7479 11254,7161 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id516">
+       <path fill="rgb(200,200,200)" stroke="none" d="M 10830,7515 L 10830,7551 11290,7479 10830,7515 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id517">
+       <path fill="rgb(168,168,168)" stroke="none" d="M 10830,7550 L 10865,7692 11290,7479 10830,7550 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id518">
+       <path fill="rgb(207,207,207)" stroke="none" d="M 11292,9616 L 11086,10323 11326,9734 11292,9616 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id519">
+       <path fill="rgb(30,30,30)" stroke="none" d="M 11086,10322 L 11292,10598 11326,10559 11086,10322 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id520">
+       <path fill="rgb(124,124,124)" stroke="none" d="M 11087,10322 L 11018,10519 11292,10598 11087,10322 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id521">
+       <path fill="rgb(148,148,148)" stroke="none" d="M 11113,7056 L 10830,7516 11254,7162 11113,7056 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id522">
+       <path fill="rgb(115,115,115)" stroke="none" d="M 11112,4551 L 11112,4693 11219,4516 11112,4551 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id523">
+       <path fill="rgb(92,92,92)" stroke="none" d="M 10795,7162 L 10830,7516 11113,7056 10795,7162 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id524">
+       <path fill="rgb(199,199,199)" stroke="none" d="M 11112,4128 L 11147,4376 11325,4270 11112,4128 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id525">
+       <path fill="rgb(147,147,147)" stroke="none" d="M 11148,4376 L 11290,4411 11325,4269 11148,4376 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id526">
+       <path fill="rgb(82,82,82)" stroke="none" d="M 11148,8468 L 11290,8539 11361,8326 11148,8468 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id527">
+       <path fill="rgb(97,97,97)" stroke="none" d="M 10971,8362 L 11148,8468 11360,8326 10971,8362 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id528">
+       <path fill="rgb(125,125,125)" stroke="none" d="M 11289,4410 L 11218,4517 11325,4552 11289,4410 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id529">
+       <path fill="rgb(154,154,154)" stroke="none" d="M 11218,4516 L 11289,4764 11325,4551 11218,4516 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id530">
+       <path fill="rgb(88,88,88)" stroke="none" d="M 11218,4516 L 11112,4693 11289,4764 11218,4516 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id531">
+       <path fill="rgb(112,112,112)" stroke="none" d="M 10778,11108 L 10847,11305 11291,10793 10778,11108 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id532">
+       <path fill="rgb(146,146,146)" stroke="none" d="M 11113,4692 L 10901,4727 11396,5046 11113,4692 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id533">
+       <path fill="rgb(138,138,138)" stroke="none" d="M 11289,4763 L 11112,4692 11395,5046 11289,4763 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id534">
+       <path fill="rgb(138,138,138)" stroke="none" d="M 10984,11499 L 11053,11893 11122,11932 10984,11499 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id535">
+       <path fill="rgb(67,67,67)" stroke="none" d="M 10795,7761 L 10795,8256 10972,8362 10795,7761 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id536">
+       <path fill="rgb(57,57,57)" stroke="none" d="M 10847,11303 L 10984,11500 11463,10949 10847,11303 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id537">
+       <path fill="rgb(64,64,64)" stroke="none" d="M 11292,10793 L 10847,11305 11463,10950 11292,10793 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id538">
+       <path fill="rgb(12,12,12)" stroke="none" d="M 11086,10322 L 11326,10559 11463,10480 11086,10322 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id539">
+       <path fill="rgb(124,124,124)" stroke="none" d="M 10901,4727 L 10866,4727 11396,5045 10901,4727 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id540">
+       <path fill="rgb(62,62,62)" stroke="none" d="M 10866,7691 L 10795,7762 10972,8362 10866,7691 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id541">
+       <path fill="rgb(125,125,125)" stroke="none" d="M 11360,8326 L 11289,8539 11502,8539 11360,8326 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id542">
+       <path fill="rgb(42,42,42)" stroke="none" d="M 11292,9616 L 11326,9734 11532,9576 11292,9616 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id543">
+       <path fill="rgb(162,162,162)" stroke="none" d="M 10866,7691 L 10972,8362 11502,7974 10866,7691 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id544">
+       <path fill="rgb(66,66,66)" stroke="none" d="M 10971,8362 L 11360,8327 11501,7973 10971,8362 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id545">
+       <path fill="rgb(83,83,83)" stroke="none" d="M 11463,10949 L 10984,11500 11531,11382 11463,10949 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id546">
+       <path fill="rgb(183,183,183)" stroke="none" d="M 11216,12786 L 11223,13070 11325,13031 11216,12786 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id547">
+       <path fill="rgb(19,19,19)" stroke="none" d="M 11292,10596 L 11292,10794 11327,10557 11292,10596 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id548">
+       <path fill="rgb(133,133,133)" stroke="none" d="M 11254,7161 L 11289,7479 11537,7373 11254,7161 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id549">
+       <path fill="rgb(63,63,63)" stroke="none" d="M 11086,10322 L 11463,10480 11565,10362 11086,10322 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id550">
+       <path fill="rgb(27,27,27)" stroke="none" d="M 11325,9733 L 11086,10322 11599,9969 11325,9733 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id551">
+       <path fill="rgb(128,128,128)" stroke="none" d="M 11216,12786 L 11325,13031 11462,12645 11216,12786 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id552">
+       <path fill="rgb(1,1,1)" stroke="none" d="M 10984,11499 L 11121,11932 11531,11381 10984,11499 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id553">
+       <path fill="rgb(115,115,115)" stroke="none" d="M 11324,4551 L 11289,4764 11607,4764 11324,4551 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id554">
+       <path fill="rgb(179,179,179)" stroke="none" d="M 11289,4763 L 11395,5046 11607,4763 11289,4763 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id555">
+       <path fill="rgb(151,151,151)" stroke="none" d="M 11289,4410 L 11324,4552 11607,4481 11289,4410 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id556">
+       <path fill="rgb(137,137,137)" stroke="none" d="M 11324,4269 L 11289,4411 11607,4482 11324,4269 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id557">
+       <path fill="rgb(0,0,0)" stroke="none" d="M 11086,10322 L 11565,10362 11599,9968 11086,10322 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id558">
+       <path fill="rgb(106,106,106)" stroke="none" d="M 11112,7057 L 11253,7163 11536,6703 11112,7057 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id559">
+       <path fill="rgb(81,81,81)" stroke="none" d="M 11326,13029 L 11223,13068 11669,13266 11326,13029 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id560">
+       <path fill="rgb(96,96,96)" stroke="none" d="M 11600,13108 L 11326,13029 11669,13266 11600,13108 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id561">
+       <path fill="rgb(144,144,144)" stroke="none" d="M 11607,4480 L 11324,4551 11607,4763 11607,4480 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id562">
+       <path fill="rgb(53,53,53)" stroke="none" d="M 11531,9576 L 11326,9734 11600,9970 11531,9576 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id563">
+       <path fill="rgb(32,32,32)" stroke="none" d="M 11463,10479 L 11292,10794 11463,10951 11463,10479 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id564">
+       <path fill="rgb(17,17,17)" stroke="none" d="M 11326,10558 L 11292,10794 11463,10479 11326,10558 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id565">
+       <path fill="rgb(68,68,68)" stroke="none" d="M 11223,13068 L 10984,13265 11703,13383 11223,13068 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id566">
+       <path fill="rgb(87,87,87)" stroke="none" d="M 11669,13265 L 11223,13068 11702,13383 11669,13265 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id567">
+       <path fill="rgb(67,67,67)" stroke="none" d="M 11254,7161 L 11537,7374 11678,7196 11254,7161 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id568">
+       <path fill="rgb(130,130,130)" stroke="none" d="M 11501,7973 L 11359,8327 11713,8221 11501,7973 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id569">
+       <path fill="rgb(20,20,20)" stroke="none" d="M 11736,10870 L 11462,10950 11770,10950 11736,10870 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id570">
+       <path fill="rgb(199,199,199)" stroke="none" d="M 11531,12323 L 11326,13030 11772,12716 11531,12323 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id571">
+       <path fill="rgb(68,68,68)" stroke="none" d="M 11326,13030 L 11600,13109 11772,12715 11326,13030 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id572">
+       <path fill="rgb(145,145,145)" stroke="none" d="M 11359,8326 L 11713,8468 11713,8220 11359,8326 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id573">
+       <path fill="rgb(45,45,45)" stroke="none" d="M 11462,10479 L 11462,10951 11736,10873 11462,10479 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id574">
+       <path fill="rgb(144,144,144)" stroke="none" d="M 11359,8326 L 11501,8539 11713,8468 11359,8326 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id575">
+       <path fill="rgb(94,94,94)" stroke="none" d="M 11537,6703 L 11254,7163 11678,7198 11537,6703 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id576">
+       <path fill="rgb(34,34,34)" stroke="none" d="M 11536,6703 L 11784,6810 11784,6739 11536,6703 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id577">
+       <path fill="rgb(57,57,57)" stroke="none" d="M 11462,10949 L 11565,11303 11770,10949 11462,10949 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id578">
+       <path fill="rgb(136,136,136)" stroke="none" d="M 11599,9968 L 11565,10362 11736,10362 11599,9968 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id579">
+       <path fill="rgb(93,93,93)" stroke="none" d="M 11571,6316 L 11784,6280 11819,6103 11571,6316 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id580">
+       <path fill="rgb(32,32,32)" stroke="none" d="M 11784,6279 L 11571,6315 11819,6386 11784,6279 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id581">
+       <path fill="rgb(33,33,33)" stroke="none" d="M 11571,6315 L 11536,6704 11819,6386 11571,6315 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id582">
+       <path fill="rgb(24,24,24)" stroke="none" d="M 11736,11617 L 11531,12324 11839,12168 11736,11617 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id583">
+       <path fill="rgb(102,102,102)" stroke="none" d="M 11536,6703 L 11678,7198 11784,6809 11536,6703 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id584">
+       <path fill="rgb(75,75,75)" stroke="none" d="M 11736,10361 L 11462,10479 11736,10873 11736,10361 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id585">
+       <path fill="rgb(69,69,69)" stroke="none" d="M 11565,10361 L 11462,10480 11736,10361 11565,10361 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id586">
+       <path fill="rgb(0,0,0)" stroke="none" d="M 11571,5292 L 11571,6316 11819,6104 11571,5292 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id587">
+       <path fill="rgb(40,40,40)" stroke="none" d="M 11536,6703 L 11784,6739 11819,6385 11536,6703 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id588">
+       <path fill="rgb(31,31,31)" stroke="none" d="M 11395,5045 L 11572,5293 11925,4939 11395,5045 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id589">
+       <path fill="rgb(52,52,52)" stroke="none" d="M 11607,4763 L 11395,5046 11925,4940 11607,4763 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id590">
+       <path fill="rgb(98,98,98)" stroke="none" d="M 11818,4798 L 11606,4763 11924,4940 11818,4798 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id591">
+       <path fill="rgb(169,169,169)" stroke="none" d="M 11531,9576 L 11600,9970 11908,9891 11531,9576 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id592">
+       <path fill="rgb(120,120,120)" stroke="none" d="M 11606,4480 L 11606,4763 11819,4798 11606,4480 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id593">
+       <path fill="rgb(89,89,89)" stroke="none" d="M 11599,13108 L 11668,13265 11976,12950 11599,13108 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id594">
+       <path fill="rgb(126,126,126)" stroke="none" d="M 11770,12715 L 11599,13109 11976,12951 11770,12715 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id595">
+       <path fill="rgb(119,119,119)" stroke="none" d="M 11976,12754 L 11770,12715 11976,12952 11976,12754 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id596">
+       <path fill="rgb(109,109,109)" stroke="none" d="M 11735,10361 L 11735,10873 11975,10636 11735,10361 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id597">
+       <path fill="rgb(85,85,85)" stroke="none" d="M 11735,10873 L 11975,10873 11975,10636 11735,10873 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id598">
+       <path fill="rgb(112,112,112)" stroke="none" d="M 11735,10870 L 11769,10950 11975,10870 11735,10870 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id599">
+       <path fill="rgb(111,111,111)" stroke="none" d="M 11770,10950 L 11941,10950 11976,10870 11770,10950 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id600">
+       <path fill="rgb(146,146,146)" stroke="none" d="M 11531,9576 L 11908,9891 11977,9694 11531,9576 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id601">
+       <path fill="rgb(106,106,106)" stroke="none" d="M 11571,5293 L 11889,5257 11925,4939 11571,5293 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id602">
+       <path fill="rgb(114,114,114)" stroke="none" d="M 11599,9970 L 11737,10363 11907,9891 11599,9970 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id603">
+       <path fill="rgb(93,93,93)" stroke="none" d="M 11712,8219 L 11712,8467 11889,8184 11712,8219 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id604">
+       <path fill="rgb(131,131,131)" stroke="none" d="M 11501,7973 L 11713,8221 11890,8186 11501,7973 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id605">
+       <path fill="rgb(64,64,64)" stroke="none" d="M 11531,12323 L 11771,12717 11839,12166 11531,12323 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id606">
+       <path fill="rgb(126,126,126)" stroke="none" d="M 9913,4164 L 10302,4164 10761,4057 9913,4164 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id607">
+       <path fill="rgb(124,124,124)" stroke="none" d="M 11565,11303 L 11736,11618 12044,11224 11565,11303 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id608">
+       <path fill="rgb(87,87,87)" stroke="none" d="M 11770,10949 L 11565,11303 12044,11225 11770,10949 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id609">
+       <path fill="rgb(97,97,97)" stroke="none" d="M 11941,10949 L 11770,10949 12044,11225 11941,10949 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id610">
+       <path fill="rgb(85,85,85)" stroke="none" d="M 11735,10361 L 11975,10637 12078,10479 11735,10361 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id611">
+       <path fill="rgb(44,44,44)" stroke="none" d="M 11818,6103 L 11783,6280 12066,6138 11818,6103 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id612">
+       <path fill="rgb(46,46,46)" stroke="none" d="M 12043,11224 L 11735,11618 12078,11342 12043,11224 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id613">
+       <path fill="rgb(66,66,66)" stroke="none" d="M 12078,11342 L 11735,11618 12112,11500 12078,11342 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id614">
+       <path fill="rgb(126,126,126)" stroke="none" d="M 11976,9694 L 11907,9891 12113,9733 11976,9694 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id615">
+       <path fill="rgb(139,139,139)" stroke="none" d="M 11889,8184 L 11712,8467 11925,8184 11889,8184 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id616">
+       <path fill="rgb(122,122,122)" stroke="none" d="M 11839,12166 L 11770,12717 12147,12363 11839,12166 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id617">
+       <path fill="rgb(54,54,54)" stroke="none" d="M 11770,12716 L 11975,12756 12147,12362 11770,12716 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id618">
+       <path fill="rgb(56,56,56)" stroke="none" d="M 11783,6280 L 11818,6386 12066,6138 11783,6280 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id619">
+       <path fill="rgb(133,133,133)" stroke="none" d="M 11668,13265 L 11702,13383 11976,12950 11668,13265 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id620">
+       <path fill="rgb(50,50,50)" stroke="none" d="M 12066,6138 L 11818,6386 12172,6351 12066,6138 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id621">
+       <path fill="rgb(22,22,22)" stroke="none" d="M 11975,12950 L 11701,13383 12180,13383 11975,12950 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id622">
+       <path fill="rgb(33,33,33)" stroke="none" d="M 12146,12989 L 11975,12950 12181,13383 12146,12989 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id623">
+       <path fill="rgb(0,0,0)" stroke="none" d="M 11975,12754 L 12146,12991 12181,12715 11975,12754 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id624">
+       <path fill="rgb(25,25,25)" stroke="none" d="M 12146,12362 L 11975,12756 12181,12716 12146,12362 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id625">
+       <path fill="rgb(20,20,20)" stroke="none" d="M 11975,12755 L 11975,12952 12146,12992 11975,12755 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id626">
+       <path fill="rgb(91,91,91)" stroke="none" d="M 11906,9891 L 11735,10363 12078,10480 11906,9891 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id627">
+       <path fill="rgb(71,71,71)" stroke="none" d="M 11571,5291 L 11819,6104 11889,5256 11571,5291 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id628">
+       <path fill="rgb(68,68,68)" stroke="none" d="M 11924,8186 L 12207,8186 12242,7973 11924,8186 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id629">
+       <path fill="rgb(53,53,53)" stroke="none" d="M 11889,8186 L 11924,8186 12243,7973 11889,8186 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id630">
+       <path fill="rgb(59,59,59)" stroke="none" d="M 11501,7973 L 11890,8186 12243,7973 11501,7973 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id631">
+       <path fill="rgb(0,0,0)" stroke="none" d="M 12181,12715 L 12146,12991 12250,12873 12181,12715 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id632">
+       <path fill="rgb(4,4,4)" stroke="none" d="M 12146,12992 L 12215,12992 12250,12873 12146,12992 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id633">
+       <path fill="rgb(50,50,50)" stroke="none" d="M 11818,6385 L 11783,6739 12172,6350 11818,6385 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id634">
+       <path fill="rgb(71,71,71)" stroke="none" d="M 11735,11617 L 11838,12167 12112,11499 11735,11617 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id635">
+       <path fill="rgb(59,59,59)" stroke="none" d="M 12111,9734 L 12249,9773 12317,9576 12111,9734 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id636">
+       <path fill="rgb(75,75,75)" stroke="none" d="M 11975,9695 L 12113,9734 12318,9576 11975,9695 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id637">
+       <path fill="rgb(88,88,88)" stroke="none" d="M 11976,10870 L 11941,10949 12045,11224 11976,10870 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id638">
+       <path fill="rgb(80,80,80)" stroke="none" d="M 12317,9576 L 12248,9773 12352,9615 12317,9576 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id639">
+       <path fill="rgb(21,21,21)" stroke="none" d="M 12249,12873 L 12214,12992 12352,12952 12249,12873 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id640">
+       <path fill="rgb(64,64,64)" stroke="none" d="M 12112,9733 L 11907,9891 12250,9773 12112,9733 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id641">
+       <path fill="rgb(26,26,26)" stroke="none" d="M 12146,12989 L 12181,13383 12216,12989 12146,12989 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id642">
+       <path fill="rgb(40,40,40)" stroke="none" d="M 11975,9695 L 12318,9576 12386,9458 11975,9695 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id643">
+       <path fill="rgb(41,41,41)" stroke="none" d="M 12248,9773 L 12419,10049 12419,9970 12248,9773 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id644">
+       <path fill="rgb(60,60,60)" stroke="none" d="M 11907,9891 L 12078,10480 12420,10048 11907,9891 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id645">
+       <path fill="rgb(110,110,110)" stroke="none" d="M 12249,9773 L 11907,9891 12420,10049 12249,9773 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id646">
+       <path fill="rgb(70,70,70)" stroke="none" d="M 12214,12989 L 12180,13383 12420,13186 12214,12989 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id647">
+       <path fill="rgb(125,125,125)" stroke="none" d="M 12352,12950 L 12214,12989 12420,13187 12352,12950 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id648">
+       <path fill="rgb(20,20,20)" stroke="none" d="M 11924,8184 L 11712,8467 12207,8184 11924,8184 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id649">
+       <path fill="rgb(134,134,134)" stroke="none" d="M 5962,4466 L 7691,4213 7939,4128 5962,4466 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id650">
+       <path fill="rgb(103,103,103)" stroke="none" d="M 11606,4480 L 11818,4798 11924,4940 11606,4480 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id651">
+       <path fill="rgb(34,34,34)" stroke="none" d="M 11889,5256 L 11818,6104 12066,6139 11889,5256 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id652">
+       <path fill="rgb(16,16,16)" stroke="none" d="M 11924,4939 L 11889,5257 12066,6139 11924,4939 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id653">
+       <path fill="rgb(91,91,91)" stroke="none" d="M 11975,10872 L 12044,11225 12079,10479 11975,10872 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id654">
+       <path fill="rgb(69,69,69)" stroke="none" d="M 11975,10637 L 11975,10873 12079,10479 11975,10637 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id655">
+       <path fill="rgb(70,70,70)" stroke="none" d="M 12112,11499 L 11838,12166 12146,12363 12112,11499 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id656">
+       <path fill="rgb(53,53,53)" stroke="none" d="M 11783,6739 L 11783,6810 12172,6350 11783,6739 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id657">
+       <path fill="rgb(44,44,44)" stroke="none" d="M 11924,4939 L 12066,6139 12172,6351 11924,4939 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id658">
+       <path fill="rgb(6,6,6)" stroke="none" d="M 12180,12715 L 12249,12873 12351,12952 12180,12715 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id659">
+       <path fill="rgb(255,255,255)" stroke="none" d="M 12146,12362 L 12180,12716 12352,12951 12146,12362 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id660">
+       <path fill="rgb(66,66,66)" stroke="none" d="M 12316,9577 L 12351,9616 12386,9458 12316,9577 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id661">
+       <path fill="rgb(199,199,199)" stroke="none" d="M 12077,10479 L 12043,11225 12420,10047 12077,10479 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id662">
+       <path fill="rgb(201,201,201)" stroke="none" d="M 12043,11225 L 12077,11343 12420,10047 12043,11225 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id663">
+       <path fill="rgb(75,75,75)" stroke="none" d="M 12351,9616 L 12248,9774 12419,9970 12351,9616 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id664">
+       <path fill="rgb(26,26,26)" stroke="none" d="M 12385,9458 L 12350,9615 12420,9970 12385,9458 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id665">
+       <path fill="rgb(156,156,156)" stroke="none" d="M 12420,13186 L 12180,13383 12454,13265 12420,13186 Z"/>
+      </g>
+     </g>
+     <g class="com.sun.star.drawing.PolyPolygonShape">
+      <g id="id666">
+       <path fill="rgb(126,126,126)" stroke="none" d="M 12350,12950 L 12419,13186 12454,13265 12350,12950 Z"/>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

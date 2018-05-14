@@ -19,19 +19,18 @@
 }
 .p-summary h1 {
   margin: 0 0 0.2em;
-  font-size: 18px;
   font-weight: 400;
+  font-size: 2em;
   letter-spacing: 0.05em;
 }
 .p-summary p {
   margin: 0;
-  font-size: 1.1rem;
   letter-spacing: 0.1em;
 }
 .p-summary a {
   margin: 0;
-  font-size: 1.1rem;
   color: rgb(20, 20, 20);
+  font-size: 2em;
   letter-spacing: 0.1em;
 }
 

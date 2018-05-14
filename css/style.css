@@ -34,3 +34,19 @@
   color: rgb(20, 20, 20);
   letter-spacing: 0.1em;
 }
+
+.p-summary a:link {
+  color: rgb(20, 20, 20);
+}
+
+.p-summary a:visited {
+  color: rgb(20, 20, 20);
+}
+
+.p-summary a:hover {
+  color: rgb(20, 20, 20);
+}
+
+.p-summary a:active {
+  color: rgb(20, 20, 20);
+}
